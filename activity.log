@@ -7,3 +7,4 @@
 [2025-01-03 22:26:27] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-01-04 13:29:16] docs(architecture): add C4 diagram for microservices communication
 [2025-01-04 15:43:26] test(unit): add comprehensive unit tests for user registration flow
+[2025-01-04 22:39:17] perf(compression): enable brotli compression for static asset delivery
