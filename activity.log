@@ -1426,3 +1426,4 @@
 [2025-01-02 10:44:49] test(unit): add comprehensive unit tests for user registration flow
 [2025-01-03 17:17:54] fix(http): handle client connection reset and retry backoff gracefully
 [2025-01-03 15:19:12] refactor(dto): standardize response envelope structure across controllers
+[2025-01-04 19:10:36] feat(graphql): add batched dataloader to resolve N+1 query problem
