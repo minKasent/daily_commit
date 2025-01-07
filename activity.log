@@ -12,3 +12,4 @@
 [2025-01-06 19:19:16] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-01-06 21:41:22] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2025-01-07 11:20:20] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2025-01-07 13:43:50] docs(architecture): add C4 diagram for microservices communication
