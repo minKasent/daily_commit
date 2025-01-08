@@ -19,3 +19,4 @@
 [2025-01-08 13:19:12] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-01-08 15:13:25] fix(routing): preserve deep-link path parameters on session resume
 [2025-01-08 17:19:53] test(unit): add comprehensive unit tests for user registration flow
+[2025-01-08 17:21:57] refactor(service): decouple payment gateway adapter from order logic
