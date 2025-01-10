@@ -28,3 +28,4 @@
 [2025-01-10 09:45:29] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-01-10 15:32:20] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-01-10 15:37:58] feat(i18n): extract UI strings into localization bundle files
+[2025-01-10 20:14:33] feat(auth): implement JWT token rotation and blacklist filter
