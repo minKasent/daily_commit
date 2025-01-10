@@ -1444,3 +1444,4 @@
 [2025-01-09 11:15:32] refactor(dto): standardize response envelope structure across controllers
 [2025-01-10 11:16:20] test(unit): add comprehensive unit tests for user registration flow
 [2025-01-10 15:58:47] fix(http): handle client connection reset and retry backoff gracefully
+[2025-01-10 17:24:37] docs(swagger): update RESTful API specification and schema models
