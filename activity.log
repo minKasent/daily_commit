@@ -25,3 +25,4 @@
 [2025-01-09 11:05:53] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-01-09 17:34:43] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-01-09 22:43:14] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-01-10 09:45:29] feat(kafka): add dead letter queue handler for failed consumer events
