@@ -1446,3 +1446,4 @@
 [2025-01-10 15:58:47] fix(http): handle client connection reset and retry backoff gracefully
 [2025-01-10 17:24:37] docs(swagger): update RESTful API specification and schema models
 [2025-01-10 17:11:26] docs(swagger): update RESTful API specification and schema models
+[2025-01-11 12:23:11] perf(db): add composite index for transaction history lookup
