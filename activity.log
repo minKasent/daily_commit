@@ -30,3 +30,4 @@
 [2025-01-10 15:37:58] feat(i18n): extract UI strings into localization bundle files
 [2025-01-10 20:14:33] feat(auth): implement JWT token rotation and blacklist filter
 [2025-01-11 13:28:29] fix(http): handle client connection reset and retry backoff gracefully
+[2025-01-13 17:15:26] feat(worker): schedule background asynchronous email notification queue
