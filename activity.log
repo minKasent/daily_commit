@@ -35,3 +35,4 @@
 [2025-01-13 19:51:41] refactor(dto): standardize response envelope structure across controllers
 [2025-01-13 20:13:52] feat(i18n): extract UI strings into localization bundle files
 [2025-01-13 20:50:29] refactor(dto): standardize response envelope structure across controllers
+[2025-01-14 10:06:47] perf(compression): enable brotli compression for static asset delivery
