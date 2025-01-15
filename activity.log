@@ -1458,3 +1458,4 @@
 [2025-01-14 17:15:39] refactor(dto): standardize response envelope structure across controllers
 [2025-01-14 19:31:27] docs(swagger): update RESTful API specification and schema models
 [2025-01-14 15:36:56] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-01-15 11:10:18] docs(swagger): update RESTful API specification and schema models
