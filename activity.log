@@ -38,3 +38,4 @@
 [2025-01-14 10:06:47] perf(compression): enable brotli compression for static asset delivery
 [2025-01-15 09:07:31] docs(swagger): update RESTful API specification and schema models
 [2025-01-15 09:50:50] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-01-16 14:39:18] fix(http): handle client connection reset and retry backoff gracefully
