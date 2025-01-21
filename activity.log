@@ -1478,3 +1478,4 @@
 [2025-01-20 19:25:18] docs(swagger): update RESTful API specification and schema models
 [2025-01-20 16:40:28] docs(swagger): update RESTful API specification and schema models
 [2025-01-21 15:53:25] docs(swagger): update RESTful API specification and schema models
+[2025-01-21 19:53:10] perf(db): add composite index for transaction history lookup
