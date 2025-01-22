@@ -48,3 +48,4 @@
 [2025-01-20 11:39:10] fix(http): handle client connection reset and retry backoff gracefully
 [2025-01-21 14:30:13] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-01-22 11:51:45] fix(routing): preserve deep-link path parameters on session resume
+[2025-01-22 21:55:39] style: format code according to Google Java style guide
