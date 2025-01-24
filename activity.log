@@ -1484,3 +1484,4 @@
 [2025-01-22 18:11:26] fix(http): handle client connection reset and retry backoff gracefully
 [2025-01-23 17:35:27] refactor(dto): standardize response envelope structure across controllers
 [2025-01-23 12:39:41] fix(http): handle client connection reset and retry backoff gracefully
+[2025-01-24 17:14:16] feat(graphql): add batched dataloader to resolve N+1 query problem
