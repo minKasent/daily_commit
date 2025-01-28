@@ -1496,3 +1496,4 @@
 [2025-01-27 13:38:46] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-01-28 15:52:12] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-01-28 14:18:37] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-01-28 10:56:32] refactor(dto): standardize response envelope structure across controllers
