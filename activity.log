@@ -50,3 +50,4 @@
 [2025-01-22 11:51:45] fix(routing): preserve deep-link path parameters on session resume
 [2025-01-22 21:55:39] style: format code according to Google Java style guide
 [2025-01-23 09:42:57] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-01-28 13:37:15] fix(validation): sanitize user input against cross-site scripting vectors
