@@ -1499,3 +1499,4 @@
 [2025-01-28 10:56:32] refactor(dto): standardize response envelope structure across controllers
 [2025-01-28 15:45:30] feat(security): enforce HTTPS strict transport security headers
 [2025-01-29 18:32:54] docs(swagger): update RESTful API specification and schema models
+[2025-01-29 15:20:56] feat(graphql): add batched dataloader to resolve N+1 query problem
