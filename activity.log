@@ -1502,3 +1502,4 @@
 [2025-01-29 15:20:56] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-01-30 17:51:34] refactor(dto): standardize response envelope structure across controllers
 [2025-01-30 10:15:54] fix(http): handle client connection reset and retry backoff gracefully
+[2025-01-30 20:37:17] refactor(dto): standardize response envelope structure across controllers
