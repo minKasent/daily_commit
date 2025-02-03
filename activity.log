@@ -1516,3 +1516,4 @@
 [2025-02-03 14:54:19] perf(db): add composite index for transaction history lookup
 [2025-02-03 19:27:38] docs(swagger): update RESTful API specification and schema models
 [2025-02-03 20:12:51] refactor(dto): standardize response envelope structure across controllers
+[2025-02-03 19:29:15] docs(swagger): update RESTful API specification and schema models
