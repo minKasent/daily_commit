@@ -59,3 +59,4 @@
 [2025-02-04 13:09:44] refactor(dto): standardize response envelope structure across controllers
 [2025-02-04 20:28:28] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-02-05 17:05:52] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2025-02-05 20:21:17] refactor(clean-arch): extract repository interfaces from domain entities
