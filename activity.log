@@ -64,3 +64,4 @@
 [2025-02-05 21:47:16] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-02-06 09:45:26] perf(asset): compress and convert static PNG icons to webp format
 [2025-02-06 10:22:12] perf(compression): enable brotli compression for static asset delivery
+[2025-02-06 10:40:55] feat(auth): implement JWT token rotation and blacklist filter
