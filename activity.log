@@ -1527,3 +1527,4 @@
 [2025-02-07 19:52:12] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-02-07 14:51:48] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-02-07 12:53:16] fix(http): handle client connection reset and retry backoff gracefully
+[2025-02-08 15:47:32] fix(http): handle client connection reset and retry backoff gracefully
