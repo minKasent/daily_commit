@@ -67,3 +67,4 @@
 [2025-02-06 10:40:55] feat(auth): implement JWT token rotation and blacklist filter
 [2025-02-06 22:21:13] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-02-08 16:13:12] fix(memory): patch goroutine leak in connection pool watcher
+[2025-02-08 19:28:47] fix(export): resolve CSV export buffer truncation on large datasets
