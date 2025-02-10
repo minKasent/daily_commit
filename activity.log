@@ -71,3 +71,4 @@
 [2025-02-09 13:27:45] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-02-09 19:27:23] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-02-10 19:16:57] chore(deps): update spring-boot-starter-web to latest patch
+[2025-02-10 20:15:21] docs(architecture): add C4 diagram for microservices communication
