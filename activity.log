@@ -83,3 +83,4 @@
 [2025-02-14 15:32:48] feat(i18n): extract UI strings into localization bundle files
 [2025-02-14 19:29:46] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-02-15 20:28:37] docs(swagger): update RESTful API specification and schema models
+[2025-02-16 15:37:29] fix(parsing): handle edge-case null values in incoming webhook payload
