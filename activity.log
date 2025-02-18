@@ -89,3 +89,4 @@
 [2025-02-17 16:48:57] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-02-18 11:43:51] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-02-18 13:24:28] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-02-18 16:33:53] feat(graphql): add batched dataloader to resolve N+1 query problem
