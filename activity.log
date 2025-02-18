@@ -88,3 +88,4 @@
 [2025-02-17 09:17:36] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-02-17 16:48:57] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-02-18 11:43:51] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-02-18 13:24:28] chore(ci): configure GitHub Actions cache for Gradle dependencies
