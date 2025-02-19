@@ -90,3 +90,4 @@
 [2025-02-18 11:43:51] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-02-18 13:24:28] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-02-18 16:33:53] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-02-19 09:14:11] perf(db): add composite index for transaction history lookup
