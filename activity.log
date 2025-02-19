@@ -1564,3 +1564,4 @@
 [2025-02-18 12:11:32] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-02-18 20:57:22] fix(http): handle client connection reset and retry backoff gracefully
 [2025-02-19 19:13:13] fix(cache): resolve race condition in distributed Redis lock
+[2025-02-19 14:30:43] refactor(dto): standardize response envelope structure across controllers
