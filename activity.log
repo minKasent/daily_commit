@@ -95,3 +95,4 @@
 [2025-02-19 14:48:29] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-02-19 20:47:15] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-02-20 09:54:37] refactor(service): decouple payment gateway adapter from order logic
+[2025-02-20 10:45:46] perf(compression): enable brotli compression for static asset delivery
