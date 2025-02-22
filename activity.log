@@ -102,3 +102,4 @@
 [2025-02-21 17:40:48] refactor(bloc): simplify state transitions in trading dashboard
 [2025-02-22 21:54:43] fix(routing): preserve deep-link path parameters on session resume
 [2025-02-22 22:33:26] fix(http): handle client connection reset and retry backoff gracefully
+[2025-02-22 22:40:38] chore(docker): optimize multi-stage Dockerfile layer caching
