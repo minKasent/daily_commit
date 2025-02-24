@@ -104,3 +104,4 @@
 [2025-02-22 22:33:26] fix(http): handle client connection reset and retry backoff gracefully
 [2025-02-22 22:40:38] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-02-24 09:19:34] refactor(service): decouple payment gateway adapter from order logic
+[2025-02-24 10:25:44] refactor(clean-arch): extract repository interfaces from domain entities
