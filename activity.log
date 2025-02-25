@@ -111,3 +111,4 @@
 [2025-02-25 13:27:29] fix(cache): resolve race condition in distributed Redis lock
 [2025-02-25 13:53:46] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-02-25 16:51:20] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-02-25 17:19:41] fix(api): correct pagination offset calculation for empty result sets
