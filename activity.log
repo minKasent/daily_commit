@@ -115,3 +115,4 @@
 [2025-02-25 22:39:57] feat(worker): schedule background asynchronous email notification queue
 [2025-02-26 10:16:13] refactor(bloc): simplify state transitions in trading dashboard
 [2025-02-26 10:18:39] perf(render): memoize expensive widget tree calculations
+[2025-02-26 13:46:37] docs(architecture): add C4 diagram for microservices communication
