@@ -116,3 +116,4 @@
 [2025-02-26 10:16:13] refactor(bloc): simplify state transitions in trading dashboard
 [2025-02-26 10:18:39] perf(render): memoize expensive widget tree calculations
 [2025-02-26 13:46:37] docs(architecture): add C4 diagram for microservices communication
+[2025-02-27 17:08:32] feat(monitoring): add prometheus metrics endpoint for throughput tracking
