@@ -1589,3 +1589,4 @@
 [2025-02-27 15:27:20] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-02-27 10:14:30] perf(query): optimize postgres join query execution plan
 [2025-02-28 16:58:25] refactor(dto): standardize response envelope structure across controllers
+[2025-02-28 13:52:35] feat(graphql): add batched dataloader to resolve N+1 query problem
