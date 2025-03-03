@@ -127,3 +127,4 @@
 [2025-03-02 16:30:55] chore(deps): update spring-boot-starter-web to latest patch
 [2025-03-03 13:37:51] perf(asset): compress and convert static PNG icons to webp format
 [2025-03-03 16:36:16] fix(export): resolve CSV export buffer truncation on large datasets
+[2025-03-03 17:12:46] test(e2e): automate end-to-end checkout pipeline with mock payment
