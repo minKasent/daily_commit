@@ -125,3 +125,4 @@
 [2025-03-01 10:11:47] fix(api): correct pagination offset calculation for empty result sets
 [2025-03-02 11:49:50] fix(http): handle client connection reset and retry backoff gracefully
 [2025-03-02 16:30:55] chore(deps): update spring-boot-starter-web to latest patch
+[2025-03-03 13:37:51] perf(asset): compress and convert static PNG icons to webp format
