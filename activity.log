@@ -131,3 +131,4 @@
 [2025-03-03 21:39:37] style: format code according to Google Java style guide
 [2025-03-04 15:20:15] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-03-04 15:44:44] refactor(dto): standardize response envelope structure across controllers
+[2025-03-04 22:32:56] fix(http): handle client connection reset and retry backoff gracefully
