@@ -132,3 +132,4 @@
 [2025-03-04 15:20:15] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-03-04 15:44:44] refactor(dto): standardize response envelope structure across controllers
 [2025-03-04 22:32:56] fix(http): handle client connection reset and retry backoff gracefully
+[2025-03-05 10:26:27] feat(i18n): extract UI strings into localization bundle files
