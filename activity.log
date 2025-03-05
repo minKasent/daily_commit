@@ -135,3 +135,4 @@
 [2025-03-05 10:26:27] feat(i18n): extract UI strings into localization bundle files
 [2025-03-05 15:16:41] perf(query): optimize postgres join query execution plan
 [2025-03-05 16:26:11] test(unit): add comprehensive unit tests for user registration flow
+[2025-03-05 21:40:10] fix(http): handle client connection reset and retry backoff gracefully
