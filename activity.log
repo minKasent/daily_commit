@@ -138,3 +138,4 @@
 [2025-03-05 21:40:10] fix(http): handle client connection reset and retry backoff gracefully
 [2025-03-06 09:30:54] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-03-06 11:42:33] perf(compression): enable brotli compression for static asset delivery
+[2025-03-06 14:49:40] feat(i18n): extract UI strings into localization bundle files
