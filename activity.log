@@ -1605,3 +1605,4 @@
 [2025-03-05 13:39:24] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-03-05 14:28:17] feat(security): enforce HTTPS strict transport security headers
 [2025-03-06 10:51:34] refactor(dto): standardize response envelope structure across controllers
+[2025-03-06 13:51:27] feat(security): enforce HTTPS strict transport security headers
