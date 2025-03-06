@@ -1604,3 +1604,4 @@
 [2025-03-04 17:31:58] perf(db): add composite index for transaction history lookup
 [2025-03-05 13:39:24] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-03-05 14:28:17] feat(security): enforce HTTPS strict transport security headers
+[2025-03-06 10:51:34] refactor(dto): standardize response envelope structure across controllers
