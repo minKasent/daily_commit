@@ -141,3 +141,4 @@
 [2025-03-06 14:49:40] feat(i18n): extract UI strings into localization bundle files
 [2025-03-06 16:33:11] feat(security): enforce HTTPS strict transport security headers
 [2025-03-07 09:25:17] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-03-07 15:21:24] fix(validation): sanitize user input against cross-site scripting vectors
