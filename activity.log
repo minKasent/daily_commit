@@ -1607,3 +1607,4 @@
 [2025-03-06 10:51:34] refactor(dto): standardize response envelope structure across controllers
 [2025-03-06 13:51:27] feat(security): enforce HTTPS strict transport security headers
 [2025-03-06 10:21:27] feat(security): enforce HTTPS strict transport security headers
+[2025-03-07 12:51:58] test(unit): add comprehensive unit tests for user registration flow
