@@ -144,3 +144,4 @@
 [2025-03-07 15:21:24] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-03-07 15:27:54] perf(query): optimize postgres join query execution plan
 [2025-03-10 09:40:28] fix(cache): resolve race condition in distributed Redis lock
+[2025-03-10 10:16:29] fix(routing): preserve deep-link path parameters on session resume
