@@ -147,3 +147,4 @@
 [2025-03-10 10:16:29] fix(routing): preserve deep-link path parameters on session resume
 [2025-03-10 11:13:27] chore(deps): update spring-boot-starter-web to latest patch
 [2025-03-10 21:11:22] feat(auth): implement JWT token rotation and blacklist filter
+[2025-03-11 16:26:21] refactor(config): externalize environment variables into secret manager
