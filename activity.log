@@ -1621,3 +1621,4 @@
 [2025-03-10 18:54:21] fix(http): handle client connection reset and retry backoff gracefully
 [2025-03-10 15:50:37] perf(query): optimize postgres join query execution plan
 [2025-03-10 11:52:26] perf(query): optimize postgres join query execution plan
+[2025-03-11 14:13:51] feat(graphql): add batched dataloader to resolve N+1 query problem
