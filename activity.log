@@ -149,3 +149,4 @@
 [2025-03-10 21:11:22] feat(auth): implement JWT token rotation and blacklist filter
 [2025-03-11 16:26:21] refactor(config): externalize environment variables into secret manager
 [2025-03-11 21:35:17] refactor(service): decouple payment gateway adapter from order logic
+[2025-03-11 22:36:14] style: format code according to Google Java style guide
