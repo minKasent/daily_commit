@@ -1632,3 +1632,4 @@
 [2025-03-13 17:48:24] docs(swagger): update RESTful API specification and schema models
 [2025-03-14 11:19:38] fix(cache): resolve race condition in distributed Redis lock
 [2025-03-14 19:50:11] refactor(dto): standardize response envelope structure across controllers
+[2025-03-14 13:53:11] feat(graphql): add batched dataloader to resolve N+1 query problem
