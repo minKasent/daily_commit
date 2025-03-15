@@ -156,3 +156,4 @@
 [2025-03-13 21:42:37] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-03-15 09:15:10] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-03-15 09:15:25] refactor(dto): standardize response envelope structure across controllers
+[2025-03-15 09:45:23] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
