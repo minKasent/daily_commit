@@ -1635,3 +1635,4 @@
 [2025-03-14 13:53:11] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-03-14 14:12:42] test(unit): add comprehensive unit tests for user registration flow
 [2025-03-15 19:33:12] perf(db): add composite index for transaction history lookup
+[2025-03-15 11:58:46] refactor(dto): standardize response envelope structure across controllers
