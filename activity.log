@@ -164,3 +164,4 @@
 [2025-03-19 17:23:38] fix(memory): patch goroutine leak in connection pool watcher
 [2025-03-20 13:10:24] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-03-20 16:52:30] refactor(config): externalize environment variables into secret manager
+[2025-03-20 19:53:53] perf(db): add composite index for transaction history lookup
