@@ -1647,3 +1647,4 @@
 [2025-03-18 15:37:57] test(unit): add comprehensive unit tests for user registration flow
 [2025-03-19 16:38:50] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-03-19 18:39:46] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-03-20 13:29:28] refactor(dto): standardize response envelope structure across controllers
