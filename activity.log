@@ -1651,3 +1651,4 @@
 [2025-03-20 20:58:20] refactor(dto): standardize response envelope structure across controllers
 [2025-03-20 10:25:41] docs(swagger): update RESTful API specification and schema models
 [2025-03-20 17:31:56] fix(cache): resolve race condition in distributed Redis lock
+[2025-03-21 10:10:52] feat(security): enforce HTTPS strict transport security headers
