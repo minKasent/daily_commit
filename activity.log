@@ -1655,3 +1655,4 @@
 [2025-03-21 12:55:18] fix(http): handle client connection reset and retry backoff gracefully
 [2025-03-21 12:49:28] fix(cache): resolve race condition in distributed Redis lock
 [2025-03-21 17:35:30] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-03-22 16:21:40] feat(graphql): add batched dataloader to resolve N+1 query problem
