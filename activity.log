@@ -171,3 +171,4 @@
 [2025-03-21 16:10:40] perf(render): memoize expensive widget tree calculations
 [2025-03-24 10:25:17] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-03-24 17:07:39] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2025-03-24 22:37:10] fix(parsing): handle edge-case null values in incoming webhook payload
