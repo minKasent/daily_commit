@@ -174,3 +174,4 @@
 [2025-03-24 22:37:10] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-03-26 10:33:54] fix(routing): preserve deep-link path parameters on session resume
 [2025-03-26 16:45:38] feat(ui): implement responsive grid layout for mobile breakpoints
+[2025-03-26 20:22:45] fix(api): correct pagination offset calculation for empty result sets
