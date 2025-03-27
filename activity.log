@@ -177,3 +177,4 @@
 [2025-03-26 20:22:45] fix(api): correct pagination offset calculation for empty result sets
 [2025-03-27 09:34:17] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-03-27 11:22:36] fix(cache): resolve race condition in distributed Redis lock
+[2025-03-27 13:40:36] docs(swagger): update RESTful API specification and schema models
