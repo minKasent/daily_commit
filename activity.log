@@ -1673,3 +1673,4 @@
 [2025-03-26 19:42:39] fix(cache): resolve race condition in distributed Redis lock
 [2025-03-27 11:21:24] refactor(dto): standardize response envelope structure across controllers
 [2025-03-27 15:58:13] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-03-28 20:12:31] test(unit): add comprehensive unit tests for user registration flow
