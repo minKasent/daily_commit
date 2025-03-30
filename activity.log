@@ -1678,3 +1678,4 @@
 [2025-03-29 16:52:26] docs(swagger): update RESTful API specification and schema models
 [2025-03-29 11:37:13] fix(http): handle client connection reset and retry backoff gracefully
 [2025-03-29 12:53:32] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-03-30 20:20:26] refactor(dto): standardize response envelope structure across controllers
