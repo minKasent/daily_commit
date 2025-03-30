@@ -184,3 +184,4 @@
 [2025-03-27 22:20:39] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-03-28 11:24:47] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-03-28 16:14:38] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-03-30 16:25:22] fix(http): handle client connection reset and retry backoff gracefully
