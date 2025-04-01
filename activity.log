@@ -189,3 +189,4 @@
 [2025-03-31 16:29:52] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-03-31 20:36:12] test(mock): stub third-party SMS verification provider in test suite
 [2025-04-01 10:11:43] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-04-01 19:51:19] style: format code according to Google Java style guide
