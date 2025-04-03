@@ -191,3 +191,4 @@
 [2025-04-01 10:11:43] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-04-01 19:51:19] style: format code according to Google Java style guide
 [2025-04-03 11:49:35] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2025-04-03 15:45:55] docs(swagger): update RESTful API specification and schema models
