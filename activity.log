@@ -1691,3 +1691,4 @@
 [2025-04-03 12:28:39] refactor(dto): standardize response envelope structure across controllers
 [2025-04-03 14:39:15] perf(query): optimize postgres join query execution plan
 [2025-04-04 13:34:10] docs(swagger): update RESTful API specification and schema models
+[2025-04-04 14:18:58] test(unit): add comprehensive unit tests for user registration flow
