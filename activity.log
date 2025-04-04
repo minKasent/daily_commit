@@ -201,3 +201,4 @@
 [2025-04-04 14:15:21] feat(auth): implement JWT token rotation and blacklist filter
 [2025-04-04 14:38:36] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2025-04-04 16:11:58] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-04-04 21:27:33] fix(timezone): normalize timestamp storage to UTC across database layers
