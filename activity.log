@@ -1698,3 +1698,4 @@
 [2025-04-06 18:20:21] perf(query): optimize postgres join query execution plan
 [2025-04-06 18:36:29] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-04-06 13:43:31] docs(swagger): update RESTful API specification and schema models
+[2025-04-06 14:50:12] perf(db): add composite index for transaction history lookup
