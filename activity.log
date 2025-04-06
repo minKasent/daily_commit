@@ -1696,3 +1696,4 @@
 [2025-04-05 18:18:16] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-04-05 19:17:31] docs(swagger): update RESTful API specification and schema models
 [2025-04-06 18:20:21] perf(query): optimize postgres join query execution plan
+[2025-04-06 18:36:29] feat(graphql): add batched dataloader to resolve N+1 query problem
