@@ -1701,3 +1701,4 @@
 [2025-04-06 14:50:12] perf(db): add composite index for transaction history lookup
 [2025-04-07 18:45:57] perf(query): optimize postgres join query execution plan
 [2025-04-07 11:45:26] fix(cache): resolve race condition in distributed Redis lock
+[2025-04-07 16:31:21] docs(swagger): update RESTful API specification and schema models
