@@ -1703,3 +1703,4 @@
 [2025-04-07 11:45:26] fix(cache): resolve race condition in distributed Redis lock
 [2025-04-07 16:31:21] docs(swagger): update RESTful API specification and schema models
 [2025-04-07 18:56:24] feat(security): enforce HTTPS strict transport security headers
+[2025-04-08 18:49:46] fix(http): handle client connection reset and retry backoff gracefully
