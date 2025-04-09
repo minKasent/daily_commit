@@ -206,3 +206,4 @@
 [2025-04-07 16:49:26] chore(deps): update spring-boot-starter-web to latest patch
 [2025-04-08 11:30:27] feat(auth): implement JWT token rotation and blacklist filter
 [2025-04-08 17:23:54] refactor(config): externalize environment variables into secret manager
+[2025-04-09 10:48:58] perf(db): add composite index for transaction history lookup
