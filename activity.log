@@ -207,3 +207,4 @@
 [2025-04-08 11:30:27] feat(auth): implement JWT token rotation and blacklist filter
 [2025-04-08 17:23:54] refactor(config): externalize environment variables into secret manager
 [2025-04-09 10:48:58] perf(db): add composite index for transaction history lookup
+[2025-04-09 14:45:16] fix(memory): patch goroutine leak in connection pool watcher
