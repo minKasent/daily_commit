@@ -215,3 +215,4 @@
 [2025-04-10 14:13:44] feat(i18n): extract UI strings into localization bundle files
 [2025-04-11 09:21:40] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-04-11 21:52:31] feat(worker): schedule background asynchronous email notification queue
+[2025-04-11 22:09:19] perf(compression): enable brotli compression for static asset delivery
