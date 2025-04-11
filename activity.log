@@ -1712,3 +1712,4 @@
 [2025-04-10 11:17:56] test(unit): add comprehensive unit tests for user registration flow
 [2025-04-10 18:17:55] docs(swagger): update RESTful API specification and schema models
 [2025-04-11 12:35:19] refactor(dto): standardize response envelope structure across controllers
+[2025-04-11 12:51:17] feat(security): enforce HTTPS strict transport security headers
