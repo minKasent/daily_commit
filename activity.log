@@ -1717,3 +1717,4 @@
 [2025-04-12 11:44:47] test(unit): add comprehensive unit tests for user registration flow
 [2025-04-12 16:12:20] fix(cache): resolve race condition in distributed Redis lock
 [2025-04-13 19:13:16] refactor(dto): standardize response envelope structure across controllers
+[2025-04-13 20:39:33] fix(http): handle client connection reset and retry backoff gracefully
