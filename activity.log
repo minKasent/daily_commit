@@ -219,3 +219,4 @@
 [2025-04-13 11:12:39] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-04-14 17:29:50] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2025-04-14 17:40:30] fix(memory): patch goroutine leak in connection pool watcher
+[2025-04-14 19:48:24] fix(parsing): handle edge-case null values in incoming webhook payload
