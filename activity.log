@@ -1723,3 +1723,4 @@
 [2025-04-15 10:37:17] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-04-15 16:11:10] feat(security): enforce HTTPS strict transport security headers
 [2025-04-16 18:17:37] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-04-16 18:56:56] fix(http): handle client connection reset and retry backoff gracefully
