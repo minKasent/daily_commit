@@ -1729,3 +1729,4 @@
 [2025-04-18 18:25:58] docs(swagger): update RESTful API specification and schema models
 [2025-04-18 16:16:54] fix(cache): resolve race condition in distributed Redis lock
 [2025-04-18 16:17:11] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-04-18 11:27:57] refactor(dto): standardize response envelope structure across controllers
