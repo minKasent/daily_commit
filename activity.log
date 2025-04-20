@@ -228,3 +228,4 @@
 [2025-04-17 21:11:53] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-04-17 22:22:12] feat(security): enforce HTTPS strict transport security headers
 [2025-04-20 10:20:18] refactor(config): externalize environment variables into secret manager
+[2025-04-20 11:43:11] refactor(clean-arch): extract repository interfaces from domain entities
