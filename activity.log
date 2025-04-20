@@ -227,3 +227,4 @@
 [2025-04-17 14:33:38] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-04-17 21:11:53] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-04-17 22:22:12] feat(security): enforce HTTPS strict transport security headers
+[2025-04-20 10:20:18] refactor(config): externalize environment variables into secret manager
