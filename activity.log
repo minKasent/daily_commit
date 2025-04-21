@@ -231,3 +231,4 @@
 [2025-04-20 11:43:11] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-04-20 22:10:52] docs(swagger): update RESTful API specification and schema models
 [2025-04-21 09:12:52] fix(http): handle client connection reset and retry backoff gracefully
+[2025-04-21 09:13:44] test(mock): stub third-party SMS verification provider in test suite
