@@ -1740,3 +1740,4 @@
 [2025-04-21 16:54:20] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-04-21 12:33:31] fix(cache): resolve race condition in distributed Redis lock
 [2025-04-22 14:58:22] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-04-22 16:40:39] fix(http): handle client connection reset and retry backoff gracefully
