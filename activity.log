@@ -235,3 +235,4 @@
 [2025-04-21 14:55:48] refactor(bloc): simplify state transitions in trading dashboard
 [2025-04-21 17:18:24] fix(api): correct pagination offset calculation for empty result sets
 [2025-04-21 20:05:32] fix(validation): sanitize user input against cross-site scripting vectors
+[2025-04-22 10:38:17] chore(ci): configure GitHub Actions cache for Gradle dependencies
