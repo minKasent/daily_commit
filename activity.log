@@ -237,3 +237,4 @@
 [2025-04-21 20:05:32] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-04-22 10:38:17] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-04-22 16:33:33] test(mock): stub third-party SMS verification provider in test suite
+[2025-04-23 17:07:56] feat(i18n): extract UI strings into localization bundle files
