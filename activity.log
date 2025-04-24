@@ -239,3 +239,4 @@
 [2025-04-22 16:33:33] test(mock): stub third-party SMS verification provider in test suite
 [2025-04-23 17:07:56] feat(i18n): extract UI strings into localization bundle files
 [2025-04-24 13:08:40] fix(routing): preserve deep-link path parameters on session resume
+[2025-04-24 22:48:16] refactor(dto): standardize response envelope structure across controllers
