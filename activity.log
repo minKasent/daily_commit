@@ -1748,3 +1748,4 @@
 [2025-04-24 14:25:14] perf(db): add composite index for transaction history lookup
 [2025-04-25 14:13:45] perf(db): add composite index for transaction history lookup
 [2025-04-25 13:37:45] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-04-26 10:46:14] chore(ci): configure GitHub Actions cache for Gradle dependencies
