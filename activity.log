@@ -1750,3 +1750,4 @@
 [2025-04-25 13:37:45] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-04-26 10:46:14] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-04-26 20:24:29] fix(http): handle client connection reset and retry backoff gracefully
+[2025-04-26 11:57:23] refactor(dto): standardize response envelope structure across controllers
