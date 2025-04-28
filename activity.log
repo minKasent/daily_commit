@@ -243,3 +243,4 @@
 [2025-04-27 10:44:50] test(mock): stub third-party SMS verification provider in test suite
 [2025-04-28 17:32:16] perf(compression): enable brotli compression for static asset delivery
 [2025-04-28 17:38:28] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-04-28 19:46:51] perf(asset): compress and convert static PNG icons to webp format
