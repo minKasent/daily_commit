@@ -244,3 +244,4 @@
 [2025-04-28 17:32:16] perf(compression): enable brotli compression for static asset delivery
 [2025-04-28 17:38:28] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-04-28 19:46:51] perf(asset): compress and convert static PNG icons to webp format
+[2025-04-29 10:34:35] feat(graphql): add batched dataloader to resolve N+1 query problem
