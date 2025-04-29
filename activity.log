@@ -1756,3 +1756,4 @@
 [2025-04-28 15:30:55] refactor(dto): standardize response envelope structure across controllers
 [2025-04-28 18:30:12] perf(query): optimize postgres join query execution plan
 [2025-04-29 12:21:10] docs(swagger): update RESTful API specification and schema models
+[2025-04-29 12:10:57] feat(security): enforce HTTPS strict transport security headers
