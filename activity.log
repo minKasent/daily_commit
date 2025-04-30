@@ -248,3 +248,4 @@
 [2025-04-29 13:25:37] docs(swagger): update RESTful API specification and schema models
 [2025-04-29 15:28:19] test(unit): add comprehensive unit tests for user registration flow
 [2025-04-30 09:52:57] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-04-30 14:40:13] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
