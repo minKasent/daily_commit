@@ -1758,3 +1758,4 @@
 [2025-04-29 12:21:10] docs(swagger): update RESTful API specification and schema models
 [2025-04-29 12:10:57] feat(security): enforce HTTPS strict transport security headers
 [2025-04-29 12:39:46] fix(cache): resolve race condition in distributed Redis lock
+[2025-04-30 10:55:23] feat(graphql): add batched dataloader to resolve N+1 query problem
