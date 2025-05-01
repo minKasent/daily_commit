@@ -1762,3 +1762,4 @@
 [2025-04-30 12:54:42] refactor(dto): standardize response envelope structure across controllers
 [2025-05-01 13:14:47] perf(db): add composite index for transaction history lookup
 [2025-05-01 17:33:42] test(unit): add comprehensive unit tests for user registration flow
+[2025-05-01 20:38:26] fix(http): handle client connection reset and retry backoff gracefully
