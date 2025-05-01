@@ -252,3 +252,4 @@
 [2025-04-30 16:27:52] fix(memory): patch goroutine leak in connection pool watcher
 [2025-04-30 17:40:31] feat(security): enforce HTTPS strict transport security headers
 [2025-04-30 22:51:13] chore(deps): update spring-boot-starter-web to latest patch
+[2025-05-01 10:41:24] perf(asset): compress and convert static PNG icons to webp format
