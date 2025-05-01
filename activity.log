@@ -1760,3 +1760,4 @@
 [2025-04-29 12:39:46] fix(cache): resolve race condition in distributed Redis lock
 [2025-04-30 10:55:23] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-04-30 12:54:42] refactor(dto): standardize response envelope structure across controllers
+[2025-05-01 13:14:47] perf(db): add composite index for transaction history lookup
