@@ -254,3 +254,4 @@
 [2025-04-30 22:51:13] chore(deps): update spring-boot-starter-web to latest patch
 [2025-05-01 10:41:24] perf(asset): compress and convert static PNG icons to webp format
 [2025-05-01 11:35:24] perf(compression): enable brotli compression for static asset delivery
+[2025-05-01 21:40:33] fix(session): set SameSite=Strict and Secure flags on auth cookies
