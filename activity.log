@@ -256,3 +256,4 @@
 [2025-05-01 11:35:24] perf(compression): enable brotli compression for static asset delivery
 [2025-05-01 21:40:33] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-05-02 10:26:32] feat(auth): implement JWT token rotation and blacklist filter
+[2025-05-02 13:43:52] fix(validation): sanitize user input against cross-site scripting vectors
