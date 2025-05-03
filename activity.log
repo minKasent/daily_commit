@@ -258,3 +258,4 @@
 [2025-05-02 10:26:32] feat(auth): implement JWT token rotation and blacklist filter
 [2025-05-02 13:43:52] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-05-02 21:06:21] style: format code according to Google Java style guide
+[2025-05-03 14:52:50] fix(api): correct pagination offset calculation for empty result sets
