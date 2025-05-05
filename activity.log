@@ -261,3 +261,4 @@
 [2025-05-03 14:52:50] fix(api): correct pagination offset calculation for empty result sets
 [2025-05-05 13:14:20] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-05-05 15:54:46] refactor(service): decouple payment gateway adapter from order logic
+[2025-05-05 16:26:20] test(unit): add comprehensive unit tests for user registration flow
