@@ -1777,3 +1777,4 @@
 [2025-05-05 15:41:38] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-05-06 12:40:25] perf(db): add composite index for transaction history lookup
 [2025-05-06 11:15:22] feat(security): enforce HTTPS strict transport security headers
+[2025-05-06 11:45:22] refactor(dto): standardize response envelope structure across controllers
