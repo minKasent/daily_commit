@@ -1787,3 +1787,4 @@
 [2025-05-09 14:44:36] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-05-09 15:18:11] perf(db): add composite index for transaction history lookup
 [2025-05-10 19:48:23] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-05-10 12:38:51] fix(cache): resolve race condition in distributed Redis lock
