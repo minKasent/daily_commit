@@ -1790,3 +1790,4 @@
 [2025-05-10 12:38:51] fix(cache): resolve race condition in distributed Redis lock
 [2025-05-10 19:58:42] perf(query): optimize postgres join query execution plan
 [2025-05-11 10:58:16] docs(swagger): update RESTful API specification and schema models
+[2025-05-11 11:33:39] fix(http): handle client connection reset and retry backoff gracefully
