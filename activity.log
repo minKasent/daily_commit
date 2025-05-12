@@ -1795,3 +1795,4 @@
 [2025-05-12 15:12:19] refactor(dto): standardize response envelope structure across controllers
 [2025-05-12 11:36:15] feat(security): enforce HTTPS strict transport security headers
 [2025-05-12 13:22:45] docs(swagger): update RESTful API specification and schema models
+[2025-05-12 20:21:53] chore(ci): configure GitHub Actions cache for Gradle dependencies
