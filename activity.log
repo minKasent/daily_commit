@@ -285,3 +285,4 @@
 [2025-05-13 16:09:40] refactor(service): decouple payment gateway adapter from order logic
 [2025-05-13 17:25:50] feat(security): enforce HTTPS strict transport security headers
 [2025-05-13 22:48:46] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-05-15 10:23:14] perf(db): add composite index for transaction history lookup
