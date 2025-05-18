@@ -1807,3 +1807,4 @@
 [2025-05-17 18:30:13] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-05-17 15:30:47] feat(security): enforce HTTPS strict transport security headers
 [2025-05-18 14:22:37] refactor(dto): standardize response envelope structure across controllers
+[2025-05-18 11:51:40] fix(cache): resolve race condition in distributed Redis lock
