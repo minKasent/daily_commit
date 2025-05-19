@@ -1813,3 +1813,4 @@
 [2025-05-19 13:37:55] perf(db): add composite index for transaction history lookup
 [2025-05-19 20:44:48] fix(http): handle client connection reset and retry backoff gracefully
 [2025-05-19 19:43:22] perf(db): add composite index for transaction history lookup
+[2025-05-19 13:35:46] perf(query): optimize postgres join query execution plan
