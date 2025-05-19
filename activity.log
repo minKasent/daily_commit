@@ -1812,3 +1812,4 @@
 [2025-05-18 18:40:23] docs(swagger): update RESTful API specification and schema models
 [2025-05-19 13:37:55] perf(db): add composite index for transaction history lookup
 [2025-05-19 20:44:48] fix(http): handle client connection reset and retry backoff gracefully
+[2025-05-19 19:43:22] perf(db): add composite index for transaction history lookup
