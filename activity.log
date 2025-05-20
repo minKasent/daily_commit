@@ -296,3 +296,4 @@
 [2025-05-19 13:55:50] test(mock): stub third-party SMS verification provider in test suite
 [2025-05-19 16:23:26] style: format code according to Google Java style guide
 [2025-05-19 17:14:31] feat(security): enforce HTTPS strict transport security headers
+[2025-05-20 13:24:45] docs(architecture): add C4 diagram for microservices communication
