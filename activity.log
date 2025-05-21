@@ -1817,3 +1817,4 @@
 [2025-05-20 12:25:16] refactor(dto): standardize response envelope structure across controllers
 [2025-05-20 13:16:35] feat(security): enforce HTTPS strict transport security headers
 [2025-05-21 16:34:35] feat(security): enforce HTTPS strict transport security headers
+[2025-05-21 18:48:53] fix(http): handle client connection reset and retry backoff gracefully
