@@ -304,3 +304,4 @@
 [2025-05-21 22:17:24] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-05-22 10:14:20] perf(db): add composite index for transaction history lookup
 [2025-05-22 10:54:49] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-05-22 11:52:43] fix(export): resolve CSV export buffer truncation on large datasets
