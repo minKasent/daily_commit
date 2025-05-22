@@ -1819,3 +1819,4 @@
 [2025-05-21 16:34:35] feat(security): enforce HTTPS strict transport security headers
 [2025-05-21 18:48:53] fix(http): handle client connection reset and retry backoff gracefully
 [2025-05-21 10:20:17] fix(http): handle client connection reset and retry backoff gracefully
+[2025-05-22 15:48:45] perf(db): add composite index for transaction history lookup
