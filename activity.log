@@ -307,3 +307,4 @@
 [2025-05-22 11:52:43] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-05-22 11:54:49] fix(http): handle client connection reset and retry backoff gracefully
 [2025-05-22 20:51:38] refactor(dto): standardize response envelope structure across controllers
+[2025-05-23 10:17:33] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
