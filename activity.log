@@ -1826,3 +1826,4 @@
 [2025-05-23 14:29:20] refactor(dto): standardize response envelope structure across controllers
 [2025-05-23 11:24:15] perf(query): optimize postgres join query execution plan
 [2025-05-24 15:26:40] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-05-24 16:39:32] perf(query): optimize postgres join query execution plan
