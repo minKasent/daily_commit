@@ -310,3 +310,4 @@
 [2025-05-23 10:17:33] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-05-23 17:33:39] docs(architecture): add C4 diagram for microservices communication
 [2025-05-23 22:19:44] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-05-25 15:40:16] test(unit): add comprehensive unit tests for user registration flow
