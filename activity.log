@@ -313,3 +313,4 @@
 [2025-05-25 15:40:16] test(unit): add comprehensive unit tests for user registration flow
 [2025-05-25 17:12:28] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-05-25 20:21:13] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-05-26 11:28:25] docs(architecture): add C4 diagram for microservices communication
