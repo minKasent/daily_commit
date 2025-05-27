@@ -316,3 +316,4 @@
 [2025-05-26 11:28:25] docs(architecture): add C4 diagram for microservices communication
 [2025-05-26 16:10:24] test(unit): add comprehensive unit tests for user registration flow
 [2025-05-26 21:06:36] fix(export): resolve CSV export buffer truncation on large datasets
+[2025-05-27 13:50:51] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
