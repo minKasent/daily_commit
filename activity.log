@@ -321,3 +321,4 @@
 [2025-05-28 09:40:56] fix(http): handle client connection reset and retry backoff gracefully
 [2025-05-28 11:35:38] fix(memory): patch goroutine leak in connection pool watcher
 [2025-05-28 13:06:26] feat(ui): implement responsive grid layout for mobile breakpoints
+[2025-05-28 16:12:28] refactor(service): decouple payment gateway adapter from order logic
