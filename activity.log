@@ -1842,3 +1842,4 @@
 [2025-05-28 19:58:37] refactor(dto): standardize response envelope structure across controllers
 [2025-05-29 10:34:43] perf(db): add composite index for transaction history lookup
 [2025-05-29 16:42:11] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-05-29 11:25:45] fix(http): handle client connection reset and retry backoff gracefully
