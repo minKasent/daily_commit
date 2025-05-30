@@ -325,3 +325,4 @@
 [2025-05-29 10:43:44] fix(api): correct pagination offset calculation for empty result sets
 [2025-05-29 17:34:14] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-05-30 11:10:43] fix(export): resolve CSV export buffer truncation on large datasets
+[2025-05-30 14:41:36] docs(swagger): update RESTful API specification and schema models
