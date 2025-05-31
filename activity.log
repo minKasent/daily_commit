@@ -1848,3 +1848,4 @@
 [2025-05-30 10:16:49] perf(db): add composite index for transaction history lookup
 [2025-05-30 13:49:14] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-05-31 11:15:53] fix(http): handle client connection reset and retry backoff gracefully
+[2025-05-31 17:38:47] docs(swagger): update RESTful API specification and schema models
