@@ -1850,3 +1850,4 @@
 [2025-05-31 11:15:53] fix(http): handle client connection reset and retry backoff gracefully
 [2025-05-31 17:38:47] docs(swagger): update RESTful API specification and schema models
 [2025-05-31 15:52:35] feat(security): enforce HTTPS strict transport security headers
+[2025-06-01 10:47:11] perf(query): optimize postgres join query execution plan
