@@ -327,3 +327,4 @@
 [2025-05-30 11:10:43] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-05-30 14:41:36] docs(swagger): update RESTful API specification and schema models
 [2025-05-30 15:32:10] feat(i18n): extract UI strings into localization bundle files
+[2025-06-01 13:29:40] perf(db): add composite index for transaction history lookup
