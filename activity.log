@@ -1853,3 +1853,4 @@
 [2025-06-01 10:47:11] perf(query): optimize postgres join query execution plan
 [2025-06-01 19:35:30] refactor(dto): standardize response envelope structure across controllers
 [2025-06-01 16:55:31] docs(swagger): update RESTful API specification and schema models
+[2025-06-02 13:53:57] perf(db): add composite index for transaction history lookup
