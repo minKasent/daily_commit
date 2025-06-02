@@ -329,3 +329,4 @@
 [2025-05-30 15:32:10] feat(i18n): extract UI strings into localization bundle files
 [2025-06-01 13:29:40] perf(db): add composite index for transaction history lookup
 [2025-06-02 13:27:25] perf(render): memoize expensive widget tree calculations
+[2025-06-02 13:54:47] fix(cache): resolve race condition in distributed Redis lock
