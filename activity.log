@@ -337,3 +337,4 @@
 [2025-06-04 11:17:28] refactor(service): decouple payment gateway adapter from order logic
 [2025-06-04 19:23:22] perf(render): memoize expensive widget tree calculations
 [2025-06-04 22:39:40] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-06-05 16:52:38] docs(architecture): add C4 diagram for microservices communication
