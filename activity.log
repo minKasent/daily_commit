@@ -338,3 +338,4 @@
 [2025-06-04 19:23:22] perf(render): memoize expensive widget tree calculations
 [2025-06-04 22:39:40] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-06-05 16:52:38] docs(architecture): add C4 diagram for microservices communication
+[2025-06-06 11:36:33] perf(asset): compress and convert static PNG icons to webp format
