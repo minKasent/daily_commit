@@ -345,3 +345,4 @@
 [2025-06-08 16:15:54] refactor(dto): standardize response envelope structure across controllers
 [2025-06-10 13:14:48] docs(swagger): update RESTful API specification and schema models
 [2025-06-10 15:37:57] fix(http): handle client connection reset and retry backoff gracefully
+[2025-06-10 16:07:18] fix(export): resolve CSV export buffer truncation on large datasets
