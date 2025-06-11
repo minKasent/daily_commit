@@ -348,3 +348,4 @@
 [2025-06-10 16:07:18] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-06-10 16:22:50] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-06-10 19:09:52] docs(architecture): add C4 diagram for microservices communication
+[2025-06-11 09:36:43] test(integration): verify saga distributed transaction rollback scenario
