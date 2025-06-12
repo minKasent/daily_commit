@@ -354,3 +354,4 @@
 [2025-06-11 15:20:17] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-06-11 17:12:26] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-06-11 21:33:58] fix(routing): preserve deep-link path parameters on session resume
+[2025-06-12 09:33:21] refactor(dto): standardize response envelope structure across controllers
