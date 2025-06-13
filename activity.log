@@ -359,3 +359,4 @@
 [2025-06-13 10:06:33] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-06-13 13:17:18] feat(i18n): extract UI strings into localization bundle files
 [2025-06-13 15:34:45] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-06-13 17:39:28] fix(parsing): handle edge-case null values in incoming webhook payload
