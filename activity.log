@@ -1886,3 +1886,4 @@
 [2025-06-14 11:53:11] perf(db): add composite index for transaction history lookup
 [2025-06-14 13:12:15] feat(security): enforce HTTPS strict transport security headers
 [2025-06-14 17:11:26] fix(cache): resolve race condition in distributed Redis lock
+[2025-06-14 20:13:32] refactor(dto): standardize response envelope structure across controllers
