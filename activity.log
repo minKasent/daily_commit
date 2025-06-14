@@ -365,3 +365,4 @@
 [2025-06-13 21:47:32] fix(cache): resolve race condition in distributed Redis lock
 [2025-06-14 14:54:18] perf(asset): compress and convert static PNG icons to webp format
 [2025-06-14 14:54:45] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-06-14 16:34:53] refactor(service): decouple payment gateway adapter from order logic
