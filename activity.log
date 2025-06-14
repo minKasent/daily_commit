@@ -363,3 +363,4 @@
 [2025-06-13 20:50:55] refactor(config): externalize environment variables into secret manager
 [2025-06-13 20:55:33] docs(swagger): update RESTful API specification and schema models
 [2025-06-13 21:47:32] fix(cache): resolve race condition in distributed Redis lock
+[2025-06-14 14:54:18] perf(asset): compress and convert static PNG icons to webp format
