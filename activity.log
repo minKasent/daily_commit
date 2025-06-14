@@ -1883,3 +1883,4 @@
 [2025-06-12 17:29:56] test(unit): add comprehensive unit tests for user registration flow
 [2025-06-13 11:43:20] refactor(dto): standardize response envelope structure across controllers
 [2025-06-13 16:35:46] docs(swagger): update RESTful API specification and schema models
+[2025-06-14 11:53:11] perf(db): add composite index for transaction history lookup
