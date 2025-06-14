@@ -1884,3 +1884,4 @@
 [2025-06-13 11:43:20] refactor(dto): standardize response envelope structure across controllers
 [2025-06-13 16:35:46] docs(swagger): update RESTful API specification and schema models
 [2025-06-14 11:53:11] perf(db): add composite index for transaction history lookup
+[2025-06-14 13:12:15] feat(security): enforce HTTPS strict transport security headers
