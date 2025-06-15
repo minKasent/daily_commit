@@ -1887,3 +1887,4 @@
 [2025-06-14 13:12:15] feat(security): enforce HTTPS strict transport security headers
 [2025-06-14 17:11:26] fix(cache): resolve race condition in distributed Redis lock
 [2025-06-14 20:13:32] refactor(dto): standardize response envelope structure across controllers
+[2025-06-15 13:21:47] test(unit): add comprehensive unit tests for user registration flow
