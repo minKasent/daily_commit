@@ -1892,3 +1892,4 @@
 [2025-06-16 15:14:39] perf(query): optimize postgres join query execution plan
 [2025-06-16 18:35:12] feat(security): enforce HTTPS strict transport security headers
 [2025-06-16 18:55:11] test(unit): add comprehensive unit tests for user registration flow
+[2025-06-16 17:47:47] fix(http): handle client connection reset and retry backoff gracefully
