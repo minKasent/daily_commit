@@ -1889,3 +1889,4 @@
 [2025-06-14 20:13:32] refactor(dto): standardize response envelope structure across controllers
 [2025-06-15 13:21:47] test(unit): add comprehensive unit tests for user registration flow
 [2025-06-15 13:13:14] fix(http): handle client connection reset and retry backoff gracefully
+[2025-06-16 15:14:39] perf(query): optimize postgres join query execution plan
