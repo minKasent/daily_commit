@@ -372,3 +372,4 @@
 [2025-06-16 17:39:15] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-06-17 09:10:12] refactor(config): externalize environment variables into secret manager
 [2025-06-17 14:47:49] test(integration): verify saga distributed transaction rollback scenario
+[2025-06-17 17:26:46] refactor(clean-arch): extract repository interfaces from domain entities
