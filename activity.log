@@ -1895,3 +1895,4 @@
 [2025-06-16 17:47:47] fix(http): handle client connection reset and retry backoff gracefully
 [2025-06-17 19:20:57] perf(db): add composite index for transaction history lookup
 [2025-06-17 16:46:55] refactor(dto): standardize response envelope structure across controllers
+[2025-06-17 12:35:17] refactor(dto): standardize response envelope structure across controllers
