@@ -1903,3 +1903,4 @@
 [2025-06-19 15:10:53] test(unit): add comprehensive unit tests for user registration flow
 [2025-06-19 11:52:42] fix(http): handle client connection reset and retry backoff gracefully
 [2025-06-19 19:26:42] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-06-20 10:54:43] docs(swagger): update RESTful API specification and schema models
