@@ -379,3 +379,4 @@
 [2025-06-18 22:24:39] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-06-19 11:25:56] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-06-19 21:30:18] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-06-20 10:44:36] fix(http): handle client connection reset and retry backoff gracefully
