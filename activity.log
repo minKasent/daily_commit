@@ -383,3 +383,4 @@
 [2025-06-20 14:11:13] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-06-20 16:12:27] refactor(bloc): simplify state transitions in trading dashboard
 [2025-06-21 14:53:20] fix(memory): patch goroutine leak in connection pool watcher
+[2025-06-21 17:34:41] fix(routing): preserve deep-link path parameters on session resume
