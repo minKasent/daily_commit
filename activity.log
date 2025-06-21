@@ -1906,3 +1906,4 @@
 [2025-06-20 10:54:43] docs(swagger): update RESTful API specification and schema models
 [2025-06-20 11:14:55] perf(db): add composite index for transaction history lookup
 [2025-06-20 11:45:22] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-06-21 14:52:30] perf(db): add composite index for transaction history lookup
