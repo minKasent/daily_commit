@@ -382,3 +382,4 @@
 [2025-06-20 10:44:36] fix(http): handle client connection reset and retry backoff gracefully
 [2025-06-20 14:11:13] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-06-20 16:12:27] refactor(bloc): simplify state transitions in trading dashboard
+[2025-06-21 14:53:20] fix(memory): patch goroutine leak in connection pool watcher
