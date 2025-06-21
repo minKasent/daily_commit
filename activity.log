@@ -1907,3 +1907,4 @@
 [2025-06-20 11:14:55] perf(db): add composite index for transaction history lookup
 [2025-06-20 11:45:22] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-06-21 14:52:30] perf(db): add composite index for transaction history lookup
+[2025-06-21 12:39:41] fix(http): handle client connection reset and retry backoff gracefully
