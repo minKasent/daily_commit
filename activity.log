@@ -385,3 +385,4 @@
 [2025-06-21 14:53:20] fix(memory): patch goroutine leak in connection pool watcher
 [2025-06-21 17:34:41] fix(routing): preserve deep-link path parameters on session resume
 [2025-06-23 09:32:18] perf(compression): enable brotli compression for static asset delivery
+[2025-06-23 13:23:41] perf(query): optimize postgres join query execution plan
