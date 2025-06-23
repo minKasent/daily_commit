@@ -384,3 +384,4 @@
 [2025-06-20 16:12:27] refactor(bloc): simplify state transitions in trading dashboard
 [2025-06-21 14:53:20] fix(memory): patch goroutine leak in connection pool watcher
 [2025-06-21 17:34:41] fix(routing): preserve deep-link path parameters on session resume
+[2025-06-23 09:32:18] perf(compression): enable brotli compression for static asset delivery
