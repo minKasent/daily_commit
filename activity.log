@@ -389,3 +389,4 @@
 [2025-06-23 14:18:47] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-06-23 16:08:46] perf(compression): enable brotli compression for static asset delivery
 [2025-06-23 16:23:44] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-06-23 21:53:35] docs(swagger): update RESTful API specification and schema models
