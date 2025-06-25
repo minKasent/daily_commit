@@ -394,3 +394,4 @@
 [2025-06-24 17:22:49] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-06-25 09:13:55] style: format code according to Google Java style guide
 [2025-06-25 11:30:42] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2025-06-25 15:53:19] chore(ci): configure GitHub Actions cache for Gradle dependencies
