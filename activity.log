@@ -392,3 +392,4 @@
 [2025-06-23 21:53:35] docs(swagger): update RESTful API specification and schema models
 [2025-06-24 13:13:16] feat(worker): schedule background asynchronous email notification queue
 [2025-06-24 17:22:49] fix(export): resolve CSV export buffer truncation on large datasets
+[2025-06-25 09:13:55] style: format code according to Google Java style guide
