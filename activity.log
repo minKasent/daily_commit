@@ -1920,3 +1920,4 @@
 [2025-06-25 20:30:32] feat(security): enforce HTTPS strict transport security headers
 [2025-06-25 15:29:55] fix(http): handle client connection reset and retry backoff gracefully
 [2025-06-26 13:54:48] refactor(dto): standardize response envelope structure across controllers
+[2025-06-26 19:19:46] feat(graphql): add batched dataloader to resolve N+1 query problem
