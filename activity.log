@@ -398,3 +398,4 @@
 [2025-06-25 16:38:39] fix(cache): resolve race condition in distributed Redis lock
 [2025-06-26 14:30:49] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-06-26 15:42:31] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-06-27 13:31:47] test(integration): verify saga distributed transaction rollback scenario
