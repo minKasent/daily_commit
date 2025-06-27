@@ -1924,3 +1924,4 @@
 [2025-06-26 19:40:16] fix(http): handle client connection reset and retry backoff gracefully
 [2025-06-26 12:38:18] test(unit): add comprehensive unit tests for user registration flow
 [2025-06-27 17:49:50] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-06-27 20:48:57] perf(db): add composite index for transaction history lookup
