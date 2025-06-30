@@ -401,3 +401,4 @@
 [2025-06-27 13:31:47] test(integration): verify saga distributed transaction rollback scenario
 [2025-06-27 13:43:40] test(mock): stub third-party SMS verification provider in test suite
 [2025-06-27 15:35:11] refactor(config): externalize environment variables into secret manager
+[2025-06-30 11:20:12] refactor(dto): standardize response envelope structure across controllers
