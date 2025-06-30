@@ -403,3 +403,4 @@
 [2025-06-27 15:35:11] refactor(config): externalize environment variables into secret manager
 [2025-06-30 11:20:12] refactor(dto): standardize response envelope structure across controllers
 [2025-06-30 13:17:11] refactor(bloc): simplify state transitions in trading dashboard
+[2025-06-30 17:54:34] fix(parsing): handle edge-case null values in incoming webhook payload
