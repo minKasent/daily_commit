@@ -405,3 +405,4 @@
 [2025-06-30 13:17:11] refactor(bloc): simplify state transitions in trading dashboard
 [2025-06-30 17:54:34] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-07-01 16:37:49] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-07-02 13:50:18] perf(query): optimize postgres join query execution plan
