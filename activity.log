@@ -409,3 +409,4 @@
 [2025-07-02 15:44:40] fix(http): handle client connection reset and retry backoff gracefully
 [2025-07-02 16:25:21] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-07-02 17:25:52] perf(compression): enable brotli compression for static asset delivery
+[2025-07-02 17:26:44] fix(memory): patch goroutine leak in connection pool watcher
