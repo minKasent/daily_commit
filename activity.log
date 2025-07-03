@@ -411,3 +411,4 @@
 [2025-07-02 17:25:52] perf(compression): enable brotli compression for static asset delivery
 [2025-07-02 17:26:44] fix(memory): patch goroutine leak in connection pool watcher
 [2025-07-03 16:25:40] feat(security): enforce HTTPS strict transport security headers
+[2025-07-03 21:54:28] perf(compression): enable brotli compression for static asset delivery
