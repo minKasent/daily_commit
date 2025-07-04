@@ -417,3 +417,4 @@
 [2025-07-04 17:29:35] chore(deps): update spring-boot-starter-web to latest patch
 [2025-07-04 20:23:12] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-07-04 21:23:17] test(mock): stub third-party SMS verification provider in test suite
+[2025-07-04 21:52:40] fix(http): handle client connection reset and retry backoff gracefully
