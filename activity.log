@@ -424,3 +424,4 @@
 [2025-07-08 11:51:12] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-07-08 13:46:46] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-07-08 21:25:28] fix(validation): sanitize user input against cross-site scripting vectors
+[2025-07-09 10:55:41] feat(kafka): add dead letter queue handler for failed consumer events
