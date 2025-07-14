@@ -436,3 +436,4 @@
 [2025-07-10 22:32:42] docs(architecture): add C4 diagram for microservices communication
 [2025-07-11 13:21:51] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-07-11 21:24:47] fix(http): handle client connection reset and retry backoff gracefully
+[2025-07-14 15:28:49] feat(monitoring): add prometheus metrics endpoint for throughput tracking
