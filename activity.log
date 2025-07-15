@@ -441,3 +441,4 @@
 [2025-07-15 11:12:13] style: format code according to Google Java style guide
 [2025-07-15 14:53:25] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-07-15 16:52:48] refactor(bloc): simplify state transitions in trading dashboard
+[2025-07-15 17:35:58] feat(i18n): extract UI strings into localization bundle files
