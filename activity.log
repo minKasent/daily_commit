@@ -440,3 +440,4 @@
 [2025-07-14 17:50:29] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-07-15 11:12:13] style: format code according to Google Java style guide
 [2025-07-15 14:53:25] feat(kafka): add dead letter queue handler for failed consumer events
+[2025-07-15 16:52:48] refactor(bloc): simplify state transitions in trading dashboard
