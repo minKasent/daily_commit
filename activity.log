@@ -438,3 +438,4 @@
 [2025-07-11 21:24:47] fix(http): handle client connection reset and retry backoff gracefully
 [2025-07-14 15:28:49] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-07-14 17:50:29] feat(monitoring): add prometheus metrics endpoint for throughput tracking
+[2025-07-15 11:12:13] style: format code according to Google Java style guide
