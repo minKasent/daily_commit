@@ -447,3 +447,4 @@
 [2025-07-15 20:41:44] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-07-16 17:31:39] feat(auth): implement JWT token rotation and blacklist filter
 [2025-07-16 17:33:13] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-07-16 17:34:53] test(mock): stub third-party SMS verification provider in test suite
