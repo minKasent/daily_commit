@@ -450,3 +450,4 @@
 [2025-07-16 17:34:53] test(mock): stub third-party SMS verification provider in test suite
 [2025-07-16 19:30:26] docs(swagger): update RESTful API specification and schema models
 [2025-07-18 09:09:40] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-07-18 10:16:18] fix(export): resolve CSV export buffer truncation on large datasets
