@@ -458,3 +458,4 @@
 [2025-07-21 09:51:58] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-07-21 16:39:34] perf(db): add composite index for transaction history lookup
 [2025-07-21 20:34:32] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-07-22 11:07:38] perf(db): add composite index for transaction history lookup
