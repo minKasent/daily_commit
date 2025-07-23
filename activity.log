@@ -461,3 +461,4 @@
 [2025-07-22 11:07:38] perf(db): add composite index for transaction history lookup
 [2025-07-22 13:20:57] feat(worker): schedule background asynchronous email notification queue
 [2025-07-22 19:20:23] refactor(dto): standardize response envelope structure across controllers
+[2025-07-23 09:13:42] refactor(bloc): simplify state transitions in trading dashboard
