@@ -465,3 +465,4 @@
 [2025-07-23 20:51:46] refactor(config): externalize environment variables into secret manager
 [2025-07-24 11:42:57] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-07-24 15:20:29] perf(asset): compress and convert static PNG icons to webp format
+[2025-07-24 20:31:29] perf(compression): enable brotli compression for static asset delivery
