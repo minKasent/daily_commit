@@ -484,3 +484,4 @@
 [2025-08-01 13:21:45] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-08-01 13:41:24] fix(cache): resolve race condition in distributed Redis lock
 [2025-08-01 15:18:33] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-08-01 21:21:58] fix(routing): preserve deep-link path parameters on session resume
