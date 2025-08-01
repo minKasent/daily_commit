@@ -480,3 +480,4 @@
 [2025-07-30 15:29:39] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-07-30 16:20:45] fix(routing): preserve deep-link path parameters on session resume
 [2025-07-30 20:49:48] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2025-08-01 09:29:46] feat(security): enforce HTTPS strict transport security headers
