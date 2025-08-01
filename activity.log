@@ -486,3 +486,4 @@
 [2025-08-01 15:18:33] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-08-01 21:21:58] fix(routing): preserve deep-link path parameters on session resume
 [2025-08-01 22:23:19] fix(validation): sanitize user input against cross-site scripting vectors
+[2025-08-01 22:34:20] fix(timezone): normalize timestamp storage to UTC across database layers
