@@ -490,3 +490,4 @@
 [2025-08-01 22:40:51] refactor(service): decouple payment gateway adapter from order logic
 [2025-08-03 09:45:24] docs(swagger): update RESTful API specification and schema models
 [2025-08-03 11:08:58] style: format code according to Google Java style guide
+[2025-08-05 11:40:36] feat(auth): implement JWT token rotation and blacklist filter
