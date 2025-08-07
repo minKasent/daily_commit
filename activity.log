@@ -499,3 +499,4 @@
 [2025-08-06 22:16:16] feat(worker): schedule background asynchronous email notification queue
 [2025-08-07 11:19:29] docs(architecture): add C4 diagram for microservices communication
 [2025-08-07 13:46:51] perf(compression): enable brotli compression for static asset delivery
+[2025-08-07 19:30:34] feat(graphql): add batched dataloader to resolve N+1 query problem
