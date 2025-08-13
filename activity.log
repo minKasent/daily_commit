@@ -506,3 +506,4 @@
 [2025-08-12 09:41:34] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-08-12 10:06:23] perf(render): memoize expensive widget tree calculations
 [2025-08-12 16:09:29] docs(architecture): add C4 diagram for microservices communication
+[2025-08-13 11:51:15] fix(api): correct pagination offset calculation for empty result sets
