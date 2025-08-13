@@ -508,3 +508,4 @@
 [2025-08-12 16:09:29] docs(architecture): add C4 diagram for microservices communication
 [2025-08-13 11:51:15] fix(api): correct pagination offset calculation for empty result sets
 [2025-08-13 13:26:48] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-08-13 15:08:16] refactor(dto): standardize response envelope structure across controllers
