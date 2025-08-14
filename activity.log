@@ -510,3 +510,4 @@
 [2025-08-13 13:26:48] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-08-13 15:08:16] refactor(dto): standardize response envelope structure across controllers
 [2025-08-13 22:54:30] fix(routing): preserve deep-link path parameters on session resume
+[2025-08-14 16:10:49] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
