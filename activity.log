@@ -513,3 +513,4 @@
 [2025-08-14 16:10:49] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-08-14 16:32:21] fix(http): handle client connection reset and retry backoff gracefully
 [2025-08-15 09:29:55] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-08-15 13:10:10] chore(deps): update spring-boot-starter-web to latest patch
