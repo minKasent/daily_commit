@@ -512,3 +512,4 @@
 [2025-08-13 22:54:30] fix(routing): preserve deep-link path parameters on session resume
 [2025-08-14 16:10:49] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-08-14 16:32:21] fix(http): handle client connection reset and retry backoff gracefully
+[2025-08-15 09:29:55] chore(docker): optimize multi-stage Dockerfile layer caching
