@@ -514,3 +514,4 @@
 [2025-08-14 16:32:21] fix(http): handle client connection reset and retry backoff gracefully
 [2025-08-15 09:29:55] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-08-15 13:10:10] chore(deps): update spring-boot-starter-web to latest patch
+[2025-08-15 20:52:34] fix(cache): resolve race condition in distributed Redis lock
