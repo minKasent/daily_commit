@@ -516,3 +516,4 @@
 [2025-08-15 13:10:10] chore(deps): update spring-boot-starter-web to latest patch
 [2025-08-15 20:52:34] fix(cache): resolve race condition in distributed Redis lock
 [2025-08-15 22:28:58] test(unit): add comprehensive unit tests for user registration flow
+[2025-08-18 13:10:32] docs(architecture): add C4 diagram for microservices communication
