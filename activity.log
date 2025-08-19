@@ -523,3 +523,4 @@
 [2025-08-19 10:35:14] fix(cache): resolve race condition in distributed Redis lock
 [2025-08-19 13:15:37] fix(memory): patch goroutine leak in connection pool watcher
 [2025-08-19 14:51:50] feat(auth): implement JWT token rotation and blacklist filter
+[2025-08-19 17:17:39] feat(worker): schedule background asynchronous email notification queue
