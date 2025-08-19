@@ -522,3 +522,4 @@
 [2025-08-19 10:24:27] chore(deps): update spring-boot-starter-web to latest patch
 [2025-08-19 10:35:14] fix(cache): resolve race condition in distributed Redis lock
 [2025-08-19 13:15:37] fix(memory): patch goroutine leak in connection pool watcher
+[2025-08-19 14:51:50] feat(auth): implement JWT token rotation and blacklist filter
