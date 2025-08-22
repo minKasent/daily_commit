@@ -1948,3 +1948,4 @@
 [2025-08-10 12:23:52] docs(swagger): update RESTful API specification and schema models
 [2025-08-10 13:52:25] perf(query): optimize postgres join query execution plan
 [2025-08-22 17:23:10] docs(swagger): update RESTful API specification and schema models
+[2025-08-22 18:29:52] test(unit): add comprehensive unit tests for user registration flow
