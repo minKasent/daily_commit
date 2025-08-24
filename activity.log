@@ -532,3 +532,4 @@
 [2025-08-20 17:13:29] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-08-21 17:39:21] perf(compression): enable brotli compression for static asset delivery
 [2025-08-23 20:33:28] docs(swagger): update RESTful API specification and schema models
+[2025-08-24 10:20:26] style: format code according to Google Java style guide
