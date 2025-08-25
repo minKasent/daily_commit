@@ -537,3 +537,4 @@
 [2025-08-25 11:35:47] feat(security): enforce HTTPS strict transport security headers
 [2025-08-25 13:11:25] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-08-25 15:49:44] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2025-08-25 17:49:36] perf(db): add composite index for transaction history lookup
