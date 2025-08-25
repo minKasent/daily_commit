@@ -535,3 +535,4 @@
 [2025-08-24 10:20:26] style: format code according to Google Java style guide
 [2025-08-24 22:48:41] perf(asset): compress and convert static PNG icons to webp format
 [2025-08-25 11:35:47] feat(security): enforce HTTPS strict transport security headers
+[2025-08-25 13:11:25] feat(kafka): add dead letter queue handler for failed consumer events
