@@ -539,3 +539,4 @@
 [2025-08-25 15:49:44] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-08-25 17:49:36] perf(db): add composite index for transaction history lookup
 [2025-08-26 09:37:57] feat(i18n): extract UI strings into localization bundle files
+[2025-08-26 16:53:31] perf(compression): enable brotli compression for static asset delivery
