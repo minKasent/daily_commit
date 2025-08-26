@@ -540,3 +540,4 @@
 [2025-08-25 17:49:36] perf(db): add composite index for transaction history lookup
 [2025-08-26 09:37:57] feat(i18n): extract UI strings into localization bundle files
 [2025-08-26 16:53:31] perf(compression): enable brotli compression for static asset delivery
+[2025-08-26 22:11:10] test(mock): stub third-party SMS verification provider in test suite
