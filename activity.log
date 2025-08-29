@@ -549,3 +549,4 @@
 [2025-08-28 13:33:56] chore(deps): update spring-boot-starter-web to latest patch
 [2025-08-28 15:09:29] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-08-29 10:45:21] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-08-29 11:17:38] refactor(clean-arch): extract repository interfaces from domain entities
