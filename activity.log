@@ -550,3 +550,4 @@
 [2025-08-28 15:09:29] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-08-29 10:45:21] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-08-29 11:17:38] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-08-29 11:32:35] chore(docker): optimize multi-stage Dockerfile layer caching
