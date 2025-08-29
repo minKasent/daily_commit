@@ -552,3 +552,4 @@
 [2025-08-29 11:17:38] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-08-29 11:32:35] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-08-29 11:32:39] docs(swagger): update RESTful API specification and schema models
+[2025-08-29 16:05:55] refactor(config): externalize environment variables into secret manager
