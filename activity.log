@@ -560,3 +560,4 @@
 [2025-09-01 17:12:32] refactor(bloc): simplify state transitions in trading dashboard
 [2025-09-01 21:44:47] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-09-02 10:49:19] refactor(config): externalize environment variables into secret manager
+[2025-09-02 16:43:18] docs(architecture): add C4 diagram for microservices communication
