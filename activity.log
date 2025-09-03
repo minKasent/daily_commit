@@ -561,3 +561,4 @@
 [2025-09-01 21:44:47] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-09-02 10:49:19] refactor(config): externalize environment variables into secret manager
 [2025-09-02 16:43:18] docs(architecture): add C4 diagram for microservices communication
+[2025-09-03 14:16:30] refactor(dto): standardize response envelope structure across controllers
