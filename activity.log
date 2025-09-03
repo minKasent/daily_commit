@@ -563,3 +563,4 @@
 [2025-09-02 16:43:18] docs(architecture): add C4 diagram for microservices communication
 [2025-09-03 14:16:30] refactor(dto): standardize response envelope structure across controllers
 [2025-09-03 17:49:51] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2025-09-03 20:40:20] refactor(service): decouple payment gateway adapter from order logic
