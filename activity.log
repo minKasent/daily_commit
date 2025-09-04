@@ -564,3 +564,4 @@
 [2025-09-03 14:16:30] refactor(dto): standardize response envelope structure across controllers
 [2025-09-03 17:49:51] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-09-03 20:40:20] refactor(service): decouple payment gateway adapter from order logic
+[2025-09-04 09:22:24] fix(timezone): normalize timestamp storage to UTC across database layers
