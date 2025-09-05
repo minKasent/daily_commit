@@ -569,3 +569,4 @@
 [2025-09-04 16:36:20] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-09-04 22:13:22] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2025-09-04 22:31:53] refactor(config): externalize environment variables into secret manager
+[2025-09-05 11:28:44] fix(http): handle client connection reset and retry backoff gracefully
