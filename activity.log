@@ -573,3 +573,4 @@
 [2025-09-05 14:32:16] fix(memory): patch goroutine leak in connection pool watcher
 [2025-09-05 19:41:17] perf(db): add composite index for transaction history lookup
 [2025-09-05 19:53:56] refactor(dto): standardize response envelope structure across controllers
+[2025-09-07 09:54:25] feat(security): enforce HTTPS strict transport security headers
