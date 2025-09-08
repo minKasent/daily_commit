@@ -577,3 +577,4 @@
 [2025-09-07 11:42:54] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-09-08 09:55:23] refactor(bloc): simplify state transitions in trading dashboard
 [2025-09-08 17:39:20] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-09-08 19:41:32] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
