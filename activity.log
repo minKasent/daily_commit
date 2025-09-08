@@ -575,3 +575,4 @@
 [2025-09-05 19:53:56] refactor(dto): standardize response envelope structure across controllers
 [2025-09-07 09:54:25] feat(security): enforce HTTPS strict transport security headers
 [2025-09-07 11:42:54] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2025-09-08 09:55:23] refactor(bloc): simplify state transitions in trading dashboard
