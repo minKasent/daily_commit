@@ -580,3 +580,4 @@
 [2025-09-08 19:41:32] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-09-09 09:20:19] refactor(bloc): simplify state transitions in trading dashboard
 [2025-09-09 19:13:58] fix(http): handle client connection reset and retry backoff gracefully
+[2025-09-09 19:22:51] feat(worker): schedule background asynchronous email notification queue
