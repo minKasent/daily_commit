@@ -582,3 +582,4 @@
 [2025-09-09 19:13:58] fix(http): handle client connection reset and retry backoff gracefully
 [2025-09-09 19:22:51] feat(worker): schedule background asynchronous email notification queue
 [2025-09-10 13:45:15] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2025-09-10 15:45:36] fix(routing): preserve deep-link path parameters on session resume
