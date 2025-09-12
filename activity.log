@@ -588,3 +588,4 @@
 [2025-09-11 16:18:41] refactor(bloc): simplify state transitions in trading dashboard
 [2025-09-11 19:51:39] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-09-12 17:36:31] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2025-09-12 19:07:16] fix(api): correct pagination offset calculation for empty result sets
