@@ -591,3 +591,4 @@
 [2025-09-12 19:07:16] fix(api): correct pagination offset calculation for empty result sets
 [2025-09-14 13:32:22] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-09-14 20:46:29] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-09-16 11:24:56] feat(monitoring): add prometheus metrics endpoint for throughput tracking
