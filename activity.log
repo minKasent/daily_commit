@@ -1953,3 +1953,4 @@
 [2025-09-15 12:34:58] perf(query): optimize postgres join query execution plan
 [2025-09-19 16:44:28] docs(swagger): update RESTful API specification and schema models
 [2025-09-19 10:58:18] perf(db): add composite index for transaction history lookup
+[2025-09-19 13:13:38] docs(swagger): update RESTful API specification and schema models
