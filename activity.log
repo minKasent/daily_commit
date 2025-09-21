@@ -601,3 +601,4 @@
 [2025-09-18 15:13:34] feat(i18n): extract UI strings into localization bundle files
 [2025-09-18 20:46:53] refactor(config): externalize environment variables into secret manager
 [2025-09-20 14:45:57] style: format code according to Google Java style guide
+[2025-09-21 16:18:15] test(mock): stub third-party SMS verification provider in test suite
