@@ -604,3 +604,4 @@
 [2025-09-21 16:18:15] test(mock): stub third-party SMS verification provider in test suite
 [2025-09-21 20:53:17] docs(architecture): add C4 diagram for microservices communication
 [2025-09-22 14:20:27] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2025-09-22 14:40:48] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
