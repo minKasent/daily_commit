@@ -609,3 +609,4 @@
 [2025-09-23 19:47:29] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-09-24 09:28:30] fix(cache): resolve race condition in distributed Redis lock
 [2025-09-24 10:45:48] docs(architecture): add C4 diagram for microservices communication
+[2025-09-24 20:36:34] refactor(config): externalize environment variables into secret manager
