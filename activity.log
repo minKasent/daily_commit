@@ -611,3 +611,4 @@
 [2025-09-24 10:45:48] docs(architecture): add C4 diagram for microservices communication
 [2025-09-24 20:36:34] refactor(config): externalize environment variables into secret manager
 [2025-09-25 10:18:12] refactor(service): decouple payment gateway adapter from order logic
+[2025-09-25 14:53:40] feat(worker): schedule background asynchronous email notification queue
