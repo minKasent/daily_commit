@@ -1957,3 +1957,4 @@
 [2025-09-27 12:53:45] docs(swagger): update RESTful API specification and schema models
 [2025-09-27 14:19:48] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-09-27 14:11:37] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2025-09-28 16:19:29] feat(security): enforce HTTPS strict transport security headers
