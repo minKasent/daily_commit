@@ -617,3 +617,4 @@
 [2025-09-26 17:39:49] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-09-29 10:12:39] fix(cache): resolve race condition in distributed Redis lock
 [2025-09-29 13:24:52] feat(auth): implement JWT token rotation and blacklist filter
+[2025-09-29 13:24:54] feat(kafka): add dead letter queue handler for failed consumer events
