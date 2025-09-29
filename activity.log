@@ -620,3 +620,4 @@
 [2025-09-29 13:24:54] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-09-29 14:08:25] fix(routing): preserve deep-link path parameters on session resume
 [2025-09-29 14:12:10] feat(security): enforce HTTPS strict transport security headers
+[2025-09-29 20:39:30] feat(i18n): extract UI strings into localization bundle files
