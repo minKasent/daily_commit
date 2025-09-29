@@ -618,3 +618,4 @@
 [2025-09-29 10:12:39] fix(cache): resolve race condition in distributed Redis lock
 [2025-09-29 13:24:52] feat(auth): implement JWT token rotation and blacklist filter
 [2025-09-29 13:24:54] feat(kafka): add dead letter queue handler for failed consumer events
+[2025-09-29 14:08:25] fix(routing): preserve deep-link path parameters on session resume
