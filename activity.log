@@ -621,3 +621,4 @@
 [2025-09-29 14:08:25] fix(routing): preserve deep-link path parameters on session resume
 [2025-09-29 14:12:10] feat(security): enforce HTTPS strict transport security headers
 [2025-09-29 20:39:30] feat(i18n): extract UI strings into localization bundle files
+[2025-09-30 10:51:17] chore(docker): optimize multi-stage Dockerfile layer caching
