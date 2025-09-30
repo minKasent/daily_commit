@@ -623,3 +623,4 @@
 [2025-09-29 20:39:30] feat(i18n): extract UI strings into localization bundle files
 [2025-09-30 10:51:17] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-09-30 19:26:37] feat(i18n): extract UI strings into localization bundle files
+[2025-09-30 21:15:33] docs(swagger): update RESTful API specification and schema models
