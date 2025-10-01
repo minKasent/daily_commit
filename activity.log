@@ -625,3 +625,4 @@
 [2025-09-30 19:26:37] feat(i18n): extract UI strings into localization bundle files
 [2025-09-30 21:15:33] docs(swagger): update RESTful API specification and schema models
 [2025-10-01 13:36:46] feat(kafka): add dead letter queue handler for failed consumer events
+[2025-10-01 19:36:39] fix(export): resolve CSV export buffer truncation on large datasets
