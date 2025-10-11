@@ -1971,3 +1971,4 @@
 [2025-10-09 11:58:58] refactor(dto): standardize response envelope structure across controllers
 [2025-10-09 12:40:40] perf(query): optimize postgres join query execution plan
 [2025-10-11 20:23:51] perf(db): add composite index for transaction history lookup
+[2025-10-11 12:37:22] test(unit): add comprehensive unit tests for user registration flow
