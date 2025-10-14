@@ -640,3 +640,4 @@
 [2025-10-10 21:05:58] fix(memory): patch goroutine leak in connection pool watcher
 [2025-10-13 09:19:43] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-10-13 13:14:55] fix(export): resolve CSV export buffer truncation on large datasets
+[2025-10-14 10:09:47] fix(http): handle client connection reset and retry backoff gracefully
