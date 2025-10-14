@@ -642,3 +642,4 @@
 [2025-10-13 13:14:55] fix(export): resolve CSV export buffer truncation on large datasets
 [2025-10-14 10:09:47] fix(http): handle client connection reset and retry backoff gracefully
 [2025-10-14 16:47:18] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-10-14 17:11:42] test(integration): verify saga distributed transaction rollback scenario
