@@ -645,3 +645,4 @@
 [2025-10-14 17:11:42] test(integration): verify saga distributed transaction rollback scenario
 [2025-10-15 09:13:47] feat(security): enforce HTTPS strict transport security headers
 [2025-10-15 09:15:38] refactor(clean-arch): extract repository interfaces from domain entities
+[2025-10-15 16:12:44] refactor(dto): standardize response envelope structure across controllers
