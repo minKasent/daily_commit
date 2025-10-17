@@ -653,3 +653,4 @@
 [2025-10-17 13:34:16] fix(cache): resolve race condition in distributed Redis lock
 [2025-10-17 15:16:11] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-10-17 22:37:13] feat(auth): implement JWT token rotation and blacklist filter
+[2025-10-17 22:40:57] refactor(service): decouple payment gateway adapter from order logic
