@@ -655,3 +655,4 @@
 [2025-10-17 22:37:13] feat(auth): implement JWT token rotation and blacklist filter
 [2025-10-17 22:40:57] refactor(service): decouple payment gateway adapter from order logic
 [2025-10-18 13:42:47] test(integration): verify saga distributed transaction rollback scenario
+[2025-10-18 20:17:35] docs(swagger): update RESTful API specification and schema models
