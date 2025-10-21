@@ -660,3 +660,4 @@
 [2025-10-21 09:16:27] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-10-21 10:08:20] fix(http): handle client connection reset and retry backoff gracefully
 [2025-10-21 14:10:31] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-10-21 16:48:37] fix(routing): preserve deep-link path parameters on session resume
