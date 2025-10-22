@@ -666,3 +666,4 @@
 [2025-10-22 11:55:11] docs(architecture): add C4 diagram for microservices communication
 [2025-10-22 13:22:34] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-10-22 21:35:44] fix(validation): sanitize user input against cross-site scripting vectors
+[2025-10-22 21:41:42] fix(api): correct pagination offset calculation for empty result sets
