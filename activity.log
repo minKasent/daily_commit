@@ -669,3 +669,4 @@
 [2025-10-22 21:41:42] fix(api): correct pagination offset calculation for empty result sets
 [2025-10-23 10:08:40] chore(deps): update spring-boot-starter-web to latest patch
 [2025-10-23 17:19:20] fix(http): handle client connection reset and retry backoff gracefully
+[2025-10-24 11:08:58] test(mock): stub third-party SMS verification provider in test suite
