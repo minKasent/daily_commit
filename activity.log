@@ -673,3 +673,4 @@
 [2025-10-24 14:16:25] refactor(bloc): simplify state transitions in trading dashboard
 [2025-10-24 20:41:34] feat(security): enforce HTTPS strict transport security headers
 [2025-10-25 11:27:46] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-10-25 17:17:41] fix(memory): patch goroutine leak in connection pool watcher
