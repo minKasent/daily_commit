@@ -675,3 +675,4 @@
 [2025-10-25 11:27:46] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-10-25 17:17:41] fix(memory): patch goroutine leak in connection pool watcher
 [2025-10-29 10:05:31] style: format code according to Google Java style guide
+[2025-10-29 15:08:11] test(mock): stub third-party SMS verification provider in test suite
