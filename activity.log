@@ -686,3 +686,4 @@
 [2025-10-31 17:30:46] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2025-10-31 21:19:52] refactor(bloc): simplify state transitions in trading dashboard
 [2025-11-01 10:14:31] docs(swagger): update RESTful API specification and schema models
+[2025-11-01 20:45:46] fix(http): handle client connection reset and retry backoff gracefully
