@@ -688,3 +688,4 @@
 [2025-11-01 10:14:31] docs(swagger): update RESTful API specification and schema models
 [2025-11-01 20:45:46] fix(http): handle client connection reset and retry backoff gracefully
 [2025-11-03 13:50:52] test(integration): verify saga distributed transaction rollback scenario
+[2025-11-03 15:33:10] refactor(clean-arch): extract repository interfaces from domain entities
