@@ -690,3 +690,4 @@
 [2025-11-03 13:50:52] test(integration): verify saga distributed transaction rollback scenario
 [2025-11-03 15:33:10] refactor(clean-arch): extract repository interfaces from domain entities
 [2025-11-04 10:55:16] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-11-04 13:29:38] feat(kafka): add dead letter queue handler for failed consumer events
