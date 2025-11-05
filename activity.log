@@ -695,3 +695,4 @@
 [2025-11-05 13:09:31] docs(architecture): add C4 diagram for microservices communication
 [2025-11-05 14:15:38] feat(kafka): add dead letter queue handler for failed consumer events
 [2025-11-05 16:27:44] docs(swagger): update RESTful API specification and schema models
+[2025-11-05 16:55:46] perf(compression): enable brotli compression for static asset delivery
