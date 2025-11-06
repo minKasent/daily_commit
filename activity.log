@@ -699,3 +699,4 @@
 [2025-11-06 09:11:13] feat(worker): schedule background asynchronous email notification queue
 [2025-11-06 09:17:36] refactor(config): externalize environment variables into secret manager
 [2025-11-06 10:15:13] perf(compression): enable brotli compression for static asset delivery
+[2025-11-06 17:21:52] fix(routing): preserve deep-link path parameters on session resume
