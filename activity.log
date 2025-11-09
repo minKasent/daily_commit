@@ -1992,3 +1992,4 @@
 [2025-11-02 17:27:27] docs(swagger): update RESTful API specification and schema models
 [2025-11-02 16:40:18] test(unit): add comprehensive unit tests for user registration flow
 [2025-11-09 16:17:48] refactor(dto): standardize response envelope structure across controllers
+[2025-11-09 17:25:36] chore(ci): configure GitHub Actions cache for Gradle dependencies
