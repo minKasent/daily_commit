@@ -707,3 +707,4 @@
 [2025-11-08 22:12:29] feat(worker): schedule background asynchronous email notification queue
 [2025-11-10 10:28:21] test(unit): add comprehensive unit tests for user registration flow
 [2025-11-10 10:41:13] feat(security): enforce HTTPS strict transport security headers
+[2025-11-10 11:39:34] fix(timezone): normalize timestamp storage to UTC across database layers
