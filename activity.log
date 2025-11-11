@@ -710,3 +710,4 @@
 [2025-11-10 11:39:34] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-11-10 11:47:16] fix(parsing): handle edge-case null values in incoming webhook payload
 [2025-11-10 15:33:39] test(mock): stub third-party SMS verification provider in test suite
+[2025-11-11 10:38:36] feat(graphql): add batched dataloader to resolve N+1 query problem
