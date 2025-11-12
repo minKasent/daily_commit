@@ -1996,3 +1996,4 @@
 [2025-11-09 12:31:40] refactor(dto): standardize response envelope structure across controllers
 [2025-11-12 10:30:22] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2025-11-12 12:20:34] perf(db): add composite index for transaction history lookup
+[2025-11-12 14:47:35] fix(http): handle client connection reset and retry backoff gracefully
