@@ -717,3 +717,4 @@
 [2025-11-13 14:18:22] perf(compression): enable brotli compression for static asset delivery
 [2025-11-13 14:43:26] refactor(bloc): simplify state transitions in trading dashboard
 [2025-11-13 17:41:43] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-11-13 20:12:58] feat(i18n): extract UI strings into localization bundle files
