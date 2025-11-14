@@ -720,3 +720,4 @@
 [2025-11-13 20:12:58] feat(i18n): extract UI strings into localization bundle files
 [2025-11-14 11:42:47] chore(deps): update spring-boot-starter-web to latest patch
 [2025-11-14 19:11:46] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-11-14 22:12:36] fix(timezone): normalize timestamp storage to UTC across database layers
