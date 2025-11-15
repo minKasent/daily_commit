@@ -722,3 +722,4 @@
 [2025-11-14 19:11:46] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-11-14 22:12:36] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-11-15 17:35:12] fix(validation): sanitize user input against cross-site scripting vectors
+[2025-11-15 21:29:51] chore(docker): optimize multi-stage Dockerfile layer caching
