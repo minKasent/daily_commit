@@ -723,3 +723,4 @@
 [2025-11-14 22:12:36] fix(timezone): normalize timestamp storage to UTC across database layers
 [2025-11-15 17:35:12] fix(validation): sanitize user input against cross-site scripting vectors
 [2025-11-15 21:29:51] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-11-17 10:22:33] fix(api): correct pagination offset calculation for empty result sets
