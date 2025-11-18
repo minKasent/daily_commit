@@ -726,3 +726,4 @@
 [2025-11-17 10:22:33] fix(api): correct pagination offset calculation for empty result sets
 [2025-11-17 16:07:35] perf(render): memoize expensive widget tree calculations
 [2025-11-17 21:49:25] fix(memory): patch goroutine leak in connection pool watcher
+[2025-11-18 16:54:30] chore(docker): optimize multi-stage Dockerfile layer caching
