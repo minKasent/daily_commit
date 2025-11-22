@@ -2000,3 +2000,4 @@
 [2025-11-16 13:37:47] perf(query): optimize postgres join query execution plan
 [2025-11-16 14:48:19] test(unit): add comprehensive unit tests for user registration flow
 [2025-11-16 19:35:20] fix(http): handle client connection reset and retry backoff gracefully
+[2025-11-22 20:32:37] perf(db): add composite index for transaction history lookup
