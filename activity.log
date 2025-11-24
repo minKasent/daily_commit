@@ -740,3 +740,4 @@
 [2025-11-24 09:22:51] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2025-11-24 09:46:21] fix(memory): patch goroutine leak in connection pool watcher
 [2025-11-24 13:19:26] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-11-24 13:54:53] perf(asset): compress and convert static PNG icons to webp format
