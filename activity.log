@@ -741,3 +741,4 @@
 [2025-11-24 09:46:21] fix(memory): patch goroutine leak in connection pool watcher
 [2025-11-24 13:19:26] chore(docker): optimize multi-stage Dockerfile layer caching
 [2025-11-24 13:54:53] perf(asset): compress and convert static PNG icons to webp format
+[2025-11-24 20:19:51] docs(architecture): add C4 diagram for microservices communication
