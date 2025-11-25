@@ -744,3 +744,4 @@
 [2025-11-24 20:19:51] docs(architecture): add C4 diagram for microservices communication
 [2025-11-25 09:35:14] perf(render): memoize expensive widget tree calculations
 [2025-11-25 11:47:33] chore(docker): optimize multi-stage Dockerfile layer caching
+[2025-11-25 14:34:29] refactor(bloc): simplify state transitions in trading dashboard
