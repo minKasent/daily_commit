@@ -750,3 +750,4 @@
 [2025-11-26 14:08:48] fix(api): correct pagination offset calculation for empty result sets
 [2025-11-26 15:48:18] fix(routing): preserve deep-link path parameters on session resume
 [2025-11-26 21:17:19] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2025-11-27 16:52:12] feat(monitoring): add prometheus metrics endpoint for throughput tracking
