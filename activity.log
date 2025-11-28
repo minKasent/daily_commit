@@ -752,3 +752,4 @@
 [2025-11-26 21:17:19] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2025-11-27 16:52:12] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-11-27 17:17:31] fix(timezone): normalize timestamp storage to UTC across database layers
+[2025-11-28 15:37:29] fix(validation): sanitize user input against cross-site scripting vectors
