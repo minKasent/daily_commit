@@ -775,3 +775,4 @@
 [2025-12-07 20:30:11] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-12-07 21:36:32] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-12-08 11:06:47] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2025-12-08 11:44:13] refactor(service): decouple payment gateway adapter from order logic
