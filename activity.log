@@ -789,3 +789,4 @@
 [2025-12-12 20:27:55] feat(auth): implement JWT token rotation and blacklist filter
 [2025-12-13 22:14:15] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-12-15 09:11:21] perf(db): add composite index for transaction history lookup
+[2025-12-15 13:11:58] feat(auth): implement JWT token rotation and blacklist filter
