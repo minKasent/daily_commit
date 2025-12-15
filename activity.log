@@ -791,3 +791,4 @@
 [2025-12-15 09:11:21] perf(db): add composite index for transaction history lookup
 [2025-12-15 13:11:58] feat(auth): implement JWT token rotation and blacklist filter
 [2025-12-15 20:34:28] fix(cache): resolve race condition in distributed Redis lock
+[2025-12-15 21:28:53] feat(kafka): add dead letter queue handler for failed consumer events
