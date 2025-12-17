@@ -796,3 +796,4 @@
 [2025-12-16 21:51:15] feat(worker): schedule background asynchronous email notification queue
 [2025-12-17 10:49:40] feat(ui): implement responsive grid layout for mobile breakpoints
 [2025-12-17 13:15:16] fix(parsing): handle edge-case null values in incoming webhook payload
+[2025-12-17 14:44:34] refactor(dto): standardize response envelope structure across controllers
