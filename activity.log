@@ -808,3 +808,4 @@
 [2025-12-19 17:51:46] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2025-12-20 14:26:27] refactor(service): decouple payment gateway adapter from order logic
 [2025-12-20 20:09:58] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2025-12-22 14:10:39] fix(routing): preserve deep-link path parameters on session resume
