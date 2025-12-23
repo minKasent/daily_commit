@@ -811,3 +811,4 @@
 [2025-12-22 14:10:39] fix(routing): preserve deep-link path parameters on session resume
 [2025-12-22 17:33:15] fix(api): correct pagination offset calculation for empty result sets
 [2025-12-22 22:25:17] chore(deps): update spring-boot-starter-web to latest patch
+[2025-12-23 11:05:15] refactor(clean-arch): extract repository interfaces from domain entities
