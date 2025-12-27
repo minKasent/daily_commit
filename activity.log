@@ -2025,3 +2025,4 @@
 [2025-12-21 19:10:38] test(unit): add comprehensive unit tests for user registration flow
 [2025-12-21 14:43:14] fix(cache): resolve race condition in distributed Redis lock
 [2025-12-21 18:41:32] fix(http): handle client connection reset and retry backoff gracefully
+[2025-12-27 12:14:15] refactor(dto): standardize response envelope structure across controllers
