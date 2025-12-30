@@ -838,3 +838,4 @@
 [2025-12-30 09:49:28] chore(deps): update spring-boot-starter-web to latest patch
 [2025-12-30 11:07:32] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2025-12-30 11:08:22] perf(compression): enable brotli compression for static asset delivery
+[2025-12-30 17:23:37] feat(monitoring): add prometheus metrics endpoint for throughput tracking
