@@ -836,3 +836,4 @@
 [2025-12-29 20:50:51] refactor(config): externalize environment variables into secret manager
 [2025-12-30 09:23:53] refactor(dto): standardize response envelope structure across controllers
 [2025-12-30 09:49:28] chore(deps): update spring-boot-starter-web to latest patch
+[2025-12-30 11:07:32] fix(session): set SameSite=Strict and Secure flags on auth cookies
