@@ -841,3 +841,4 @@
 [2025-12-30 17:23:37] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2025-12-30 19:06:34] perf(compression): enable brotli compression for static asset delivery
 [2025-12-31 10:29:36] refactor(bloc): simplify state transitions in trading dashboard
+[2025-12-31 15:49:52] perf(compression): enable brotli compression for static asset delivery
