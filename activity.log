@@ -847,3 +847,4 @@
 [2026-01-02 17:17:56] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-01-02 21:33:21] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-01-05 09:42:26] perf(db): add composite index for transaction history lookup
+[2026-01-05 10:50:19] style: format code according to Google Java style guide
