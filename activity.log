@@ -858,3 +858,4 @@
 [2026-01-07 14:46:49] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-01-07 16:40:58] refactor(dto): standardize response envelope structure across controllers
 [2026-01-07 17:51:28] fix(routing): preserve deep-link path parameters on session resume
+[2026-01-07 19:12:52] perf(db): add composite index for transaction history lookup
