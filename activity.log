@@ -866,3 +866,4 @@
 [2026-01-09 09:08:21] test(integration): verify saga distributed transaction rollback scenario
 [2026-01-09 10:50:31] fix(parsing): handle edge-case null values in incoming webhook payload
 [2026-01-09 11:52:37] docs(architecture): add C4 diagram for microservices communication
+[2026-01-09 13:52:53] refactor(dto): standardize response envelope structure across controllers
