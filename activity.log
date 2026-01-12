@@ -868,3 +868,4 @@
 [2026-01-09 11:52:37] docs(architecture): add C4 diagram for microservices communication
 [2026-01-09 13:52:53] refactor(dto): standardize response envelope structure across controllers
 [2026-01-09 19:41:24] feat(worker): schedule background asynchronous email notification queue
+[2026-01-12 13:49:14] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
