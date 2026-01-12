@@ -869,3 +869,4 @@
 [2026-01-09 13:52:53] refactor(dto): standardize response envelope structure across controllers
 [2026-01-09 19:41:24] feat(worker): schedule background asynchronous email notification queue
 [2026-01-12 13:49:14] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-01-12 17:09:58] refactor(dto): standardize response envelope structure across controllers
