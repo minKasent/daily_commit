@@ -874,3 +874,4 @@
 [2026-01-12 21:43:15] feat(worker): schedule background asynchronous email notification queue
 [2026-01-13 09:39:24] feat(auth): implement JWT token rotation and blacklist filter
 [2026-01-13 10:55:44] refactor(config): externalize environment variables into secret manager
+[2026-01-13 11:14:29] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
