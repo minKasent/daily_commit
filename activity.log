@@ -872,3 +872,4 @@
 [2026-01-12 17:09:58] refactor(dto): standardize response envelope structure across controllers
 [2026-01-12 17:11:28] docs(architecture): add C4 diagram for microservices communication
 [2026-01-12 21:43:15] feat(worker): schedule background asynchronous email notification queue
+[2026-01-13 09:39:24] feat(auth): implement JWT token rotation and blacklist filter
