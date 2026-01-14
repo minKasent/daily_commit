@@ -879,3 +879,4 @@
 [2026-01-13 20:12:12] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-01-14 09:52:57] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-01-14 20:15:21] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-01-14 21:18:36] test(integration): verify saga distributed transaction rollback scenario
