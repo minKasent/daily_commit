@@ -877,3 +877,4 @@
 [2026-01-13 11:14:29] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-01-13 15:05:45] feat(worker): schedule background asynchronous email notification queue
 [2026-01-13 20:12:12] fix(timezone): normalize timestamp storage to UTC across database layers
+[2026-01-14 09:52:57] feat(monitoring): add prometheus metrics endpoint for throughput tracking
