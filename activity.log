@@ -886,3 +886,4 @@
 [2026-01-16 15:47:14] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2026-01-17 21:36:38] perf(render): memoize expensive widget tree calculations
 [2026-01-18 17:14:46] refactor(config): externalize environment variables into secret manager
+[2026-01-19 14:50:57] perf(asset): compress and convert static PNG icons to webp format
