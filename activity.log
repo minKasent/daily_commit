@@ -895,3 +895,4 @@
 [2026-01-20 15:54:29] test(mock): stub third-party SMS verification provider in test suite
 [2026-01-21 11:35:51] test(mock): stub third-party SMS verification provider in test suite
 [2026-01-21 20:07:45] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-01-21 21:30:24] fix(cache): resolve race condition in distributed Redis lock
