@@ -898,3 +898,4 @@
 [2026-01-21 21:30:24] fix(cache): resolve race condition in distributed Redis lock
 [2026-01-22 09:44:53] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-01-22 11:13:38] fix(validation): sanitize user input against cross-site scripting vectors
+[2026-01-22 16:28:42] refactor(config): externalize environment variables into secret manager
