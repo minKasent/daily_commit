@@ -901,3 +901,4 @@
 [2026-01-22 16:28:42] refactor(config): externalize environment variables into secret manager
 [2026-01-23 13:47:23] refactor(bloc): simplify state transitions in trading dashboard
 [2026-01-23 14:52:56] chore(deps): update spring-boot-starter-web to latest patch
+[2026-01-23 15:07:24] feat(i18n): extract UI strings into localization bundle files
