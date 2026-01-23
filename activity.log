@@ -899,3 +899,4 @@
 [2026-01-22 09:44:53] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-01-22 11:13:38] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-01-22 16:28:42] refactor(config): externalize environment variables into secret manager
+[2026-01-23 13:47:23] refactor(bloc): simplify state transitions in trading dashboard
