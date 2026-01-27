@@ -911,3 +911,4 @@
 [2026-01-27 11:35:40] refactor(clean-arch): extract repository interfaces from domain entities
 [2026-01-27 11:50:17] test(mock): stub third-party SMS verification provider in test suite
 [2026-01-27 14:09:42] feat(kafka): add dead letter queue handler for failed consumer events
+[2026-01-27 14:14:21] fix(parsing): handle edge-case null values in incoming webhook payload
