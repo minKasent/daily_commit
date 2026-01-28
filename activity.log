@@ -914,3 +914,4 @@
 [2026-01-27 14:14:21] fix(parsing): handle edge-case null values in incoming webhook payload
 [2026-01-27 16:26:56] fix(api): correct pagination offset calculation for empty result sets
 [2026-01-28 11:15:18] refactor(service): decouple payment gateway adapter from order logic
+[2026-01-28 13:41:19] feat(kafka): add dead letter queue handler for failed consumer events
