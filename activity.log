@@ -915,3 +915,4 @@
 [2026-01-27 16:26:56] fix(api): correct pagination offset calculation for empty result sets
 [2026-01-28 11:15:18] refactor(service): decouple payment gateway adapter from order logic
 [2026-01-28 13:41:19] feat(kafka): add dead letter queue handler for failed consumer events
+[2026-01-29 10:43:46] refactor(dto): standardize response envelope structure across controllers
