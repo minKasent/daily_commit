@@ -917,3 +917,4 @@
 [2026-01-28 13:41:19] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-01-29 10:43:46] refactor(dto): standardize response envelope structure across controllers
 [2026-01-29 15:10:23] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2026-01-30 09:17:43] perf(db): add composite index for transaction history lookup
