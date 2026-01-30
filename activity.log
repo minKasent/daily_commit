@@ -918,3 +918,4 @@
 [2026-01-29 10:43:46] refactor(dto): standardize response envelope structure across controllers
 [2026-01-29 15:10:23] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-01-30 09:17:43] perf(db): add composite index for transaction history lookup
+[2026-01-30 10:44:48] fix(timezone): normalize timestamp storage to UTC across database layers
