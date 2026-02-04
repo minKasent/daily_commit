@@ -934,3 +934,4 @@
 [2026-02-03 09:29:51] test(integration): verify saga distributed transaction rollback scenario
 [2026-02-03 10:31:33] test(integration): verify saga distributed transaction rollback scenario
 [2026-02-03 10:46:47] fix(timezone): normalize timestamp storage to UTC across database layers
+[2026-02-04 15:40:45] feat(graphql): add batched dataloader to resolve N+1 query problem
