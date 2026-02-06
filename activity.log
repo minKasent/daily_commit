@@ -940,3 +940,4 @@
 [2026-02-05 14:11:23] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-02-05 19:52:24] feat(worker): schedule background asynchronous email notification queue
 [2026-02-05 22:52:18] perf(render): memoize expensive widget tree calculations
+[2026-02-06 09:28:15] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
