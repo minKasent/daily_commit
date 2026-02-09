@@ -945,3 +945,4 @@
 [2026-02-06 17:32:15] docs(architecture): add C4 diagram for microservices communication
 [2026-02-06 19:10:19] feat(worker): schedule background asynchronous email notification queue
 [2026-02-07 17:08:21] fix(routing): preserve deep-link path parameters on session resume
+[2026-02-09 17:23:22] perf(db): add composite index for transaction history lookup
