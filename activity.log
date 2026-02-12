@@ -950,3 +950,4 @@
 [2026-02-10 14:44:20] test(mock): stub third-party SMS verification provider in test suite
 [2026-02-10 15:20:51] perf(query): optimize postgres join query execution plan
 [2026-02-10 21:47:35] feat(i18n): extract UI strings into localization bundle files
+[2026-02-12 09:34:35] chore(ci): configure GitHub Actions cache for Gradle dependencies
