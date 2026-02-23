@@ -960,3 +960,4 @@
 [2026-02-14 11:55:24] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-02-14 22:12:26] refactor(bloc): simplify state transitions in trading dashboard
 [2026-02-22 17:16:40] refactor(bloc): simplify state transitions in trading dashboard
+[2026-02-23 14:36:57] perf(query): optimize postgres join query execution plan
