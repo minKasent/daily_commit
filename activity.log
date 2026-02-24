@@ -963,3 +963,4 @@
 [2026-02-23 14:36:57] perf(query): optimize postgres join query execution plan
 [2026-02-23 21:16:57] fix(http): handle client connection reset and retry backoff gracefully
 [2026-02-24 09:48:52] perf(db): add composite index for transaction history lookup
+[2026-02-24 13:53:44] feat(graphql): add batched dataloader to resolve N+1 query problem
