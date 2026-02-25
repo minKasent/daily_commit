@@ -966,3 +966,4 @@
 [2026-02-24 13:53:44] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2026-02-24 20:19:22] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-02-24 21:14:16] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-02-25 21:30:24] refactor(config): externalize environment variables into secret manager
