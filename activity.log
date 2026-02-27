@@ -971,3 +971,4 @@
 [2026-02-27 11:18:34] test(mock): stub third-party SMS verification provider in test suite
 [2026-02-27 14:34:17] chore(deps): update spring-boot-starter-web to latest patch
 [2026-02-27 16:25:54] refactor(bloc): simplify state transitions in trading dashboard
+[2026-02-27 17:07:42] fix(export): resolve CSV export buffer truncation on large datasets
