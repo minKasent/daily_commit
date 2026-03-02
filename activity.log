@@ -974,3 +974,4 @@
 [2026-02-27 17:07:42] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-02-28 11:21:25] chore(docker): optimize multi-stage Dockerfile layer caching
 [2026-03-02 09:41:18] refactor(config): externalize environment variables into secret manager
+[2026-03-02 15:28:35] feat(monitoring): add prometheus metrics endpoint for throughput tracking
