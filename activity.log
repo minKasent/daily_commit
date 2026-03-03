@@ -978,3 +978,4 @@
 [2026-03-02 16:32:23] chore(deps): update spring-boot-starter-web to latest patch
 [2026-03-03 11:14:40] refactor(bloc): simplify state transitions in trading dashboard
 [2026-03-03 11:38:44] fix(routing): preserve deep-link path parameters on session resume
+[2026-03-03 20:31:41] fix(memory): patch goroutine leak in connection pool watcher
