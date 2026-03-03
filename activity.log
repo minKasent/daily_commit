@@ -977,3 +977,4 @@
 [2026-03-02 15:28:35] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-03-02 16:32:23] chore(deps): update spring-boot-starter-web to latest patch
 [2026-03-03 11:14:40] refactor(bloc): simplify state transitions in trading dashboard
+[2026-03-03 11:38:44] fix(routing): preserve deep-link path parameters on session resume
