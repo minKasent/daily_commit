@@ -1001,3 +1001,4 @@
 [2026-03-10 19:21:49] feat(i18n): extract UI strings into localization bundle files
 [2026-03-11 11:27:30] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-03-11 11:34:50] fix(memory): patch goroutine leak in connection pool watcher
+[2026-03-11 14:49:44] feat(security): enforce HTTPS strict transport security headers
