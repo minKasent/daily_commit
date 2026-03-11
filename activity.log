@@ -1000,3 +1000,4 @@
 [2026-03-10 15:52:54] fix(cache): resolve race condition in distributed Redis lock
 [2026-03-10 19:21:49] feat(i18n): extract UI strings into localization bundle files
 [2026-03-11 11:27:30] fix(timezone): normalize timestamp storage to UTC across database layers
+[2026-03-11 11:34:50] fix(memory): patch goroutine leak in connection pool watcher
