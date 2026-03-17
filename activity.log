@@ -1012,3 +1012,4 @@
 [2026-03-16 10:45:25] feat(i18n): extract UI strings into localization bundle files
 [2026-03-16 16:29:24] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-03-17 10:44:38] chore(docker): optimize multi-stage Dockerfile layer caching
+[2026-03-17 15:31:22] fix(session): set SameSite=Strict and Secure flags on auth cookies
