@@ -1025,3 +1025,4 @@
 [2026-03-24 11:24:22] refactor(service): decouple payment gateway adapter from order logic
 [2026-03-24 13:38:52] refactor(clean-arch): extract repository interfaces from domain entities
 [2026-03-24 16:54:38] feat(ui): implement responsive grid layout for mobile breakpoints
+[2026-03-24 17:38:17] fix(http): handle client connection reset and retry backoff gracefully
