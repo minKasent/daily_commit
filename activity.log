@@ -1027,3 +1027,4 @@
 [2026-03-24 16:54:38] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-03-24 17:38:17] fix(http): handle client connection reset and retry backoff gracefully
 [2026-03-24 21:15:50] perf(asset): compress and convert static PNG icons to webp format
+[2026-03-24 22:29:53] refactor(bloc): simplify state transitions in trading dashboard
