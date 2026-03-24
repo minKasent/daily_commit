@@ -1021,3 +1021,4 @@
 [2026-03-19 16:28:39] perf(render): memoize expensive widget tree calculations
 [2026-03-21 10:54:35] docs(swagger): update RESTful API specification and schema models
 [2026-03-23 21:29:10] feat(ui): implement responsive grid layout for mobile breakpoints
+[2026-03-24 09:17:39] fix(export): resolve CSV export buffer truncation on large datasets
