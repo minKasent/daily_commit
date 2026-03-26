@@ -1031,3 +1031,4 @@
 [2026-03-26 09:42:54] test(unit): add comprehensive unit tests for user registration flow
 [2026-03-26 16:55:25] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-03-26 17:14:33] perf(render): memoize expensive widget tree calculations
+[2026-03-26 20:15:41] refactor(service): decouple payment gateway adapter from order logic
