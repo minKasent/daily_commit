@@ -1032,3 +1032,4 @@
 [2026-03-26 16:55:25] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-03-26 17:14:33] perf(render): memoize expensive widget tree calculations
 [2026-03-26 20:15:41] refactor(service): decouple payment gateway adapter from order logic
+[2026-03-28 13:13:41] feat(monitoring): add prometheus metrics endpoint for throughput tracking
