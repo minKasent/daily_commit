@@ -1034,3 +1034,4 @@
 [2026-03-26 20:15:41] refactor(service): decouple payment gateway adapter from order logic
 [2026-03-28 13:13:41] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-03-30 11:29:32] refactor(dto): standardize response envelope structure across controllers
+[2026-03-30 15:07:41] perf(compression): enable brotli compression for static asset delivery
