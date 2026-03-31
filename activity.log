@@ -1036,3 +1036,4 @@
 [2026-03-30 11:29:32] refactor(dto): standardize response envelope structure across controllers
 [2026-03-30 15:07:41] perf(compression): enable brotli compression for static asset delivery
 [2026-03-30 15:33:56] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-03-31 16:22:48] style: format code according to Google Java style guide
