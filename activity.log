@@ -1039,3 +1039,4 @@
 [2026-03-31 16:22:48] style: format code according to Google Java style guide
 [2026-03-31 17:16:44] refactor(dto): standardize response envelope structure across controllers
 [2026-03-31 20:09:43] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-04-01 11:29:22] feat(i18n): extract UI strings into localization bundle files
