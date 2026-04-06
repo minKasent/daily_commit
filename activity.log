@@ -1048,3 +1048,4 @@
 [2026-04-02 15:12:16] chore(deps): update spring-boot-starter-web to latest patch
 [2026-04-04 16:38:49] test(mock): stub third-party SMS verification provider in test suite
 [2026-04-06 13:05:23] refactor(service): decouple payment gateway adapter from order logic
+[2026-04-06 13:34:50] fix(export): resolve CSV export buffer truncation on large datasets
