@@ -1056,3 +1056,4 @@
 [2026-04-09 13:54:50] perf(asset): compress and convert static PNG icons to webp format
 [2026-04-09 14:40:57] chore(deps): update spring-boot-starter-web to latest patch
 [2026-04-09 16:49:52] feat(kafka): add dead letter queue handler for failed consumer events
+[2026-04-10 11:33:32] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
