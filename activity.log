@@ -1058,3 +1058,4 @@
 [2026-04-09 16:49:52] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-04-10 11:33:32] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-04-10 17:26:52] fix(http): handle client connection reset and retry backoff gracefully
+[2026-04-10 21:28:36] refactor(config): externalize environment variables into secret manager
