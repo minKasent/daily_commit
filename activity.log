@@ -1065,3 +1065,4 @@
 [2026-04-13 09:24:10] test(integration): verify saga distributed transaction rollback scenario
 [2026-04-13 10:27:19] fix(memory): patch goroutine leak in connection pool watcher
 [2026-04-13 10:42:25] test(unit): add comprehensive unit tests for user registration flow
+[2026-04-13 11:22:45] refactor(config): externalize environment variables into secret manager
