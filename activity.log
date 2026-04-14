@@ -1073,3 +1073,4 @@
 [2026-04-14 15:55:40] docs(architecture): add C4 diagram for microservices communication
 [2026-04-14 17:29:15] refactor(service): decouple payment gateway adapter from order logic
 [2026-04-14 19:43:51] fix(memory): patch goroutine leak in connection pool watcher
+[2026-04-14 21:27:37] feat(i18n): extract UI strings into localization bundle files
