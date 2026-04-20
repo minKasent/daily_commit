@@ -1080,3 +1080,4 @@
 [2026-04-17 11:52:13] perf(compression): enable brotli compression for static asset delivery
 [2026-04-20 14:36:35] feat(i18n): extract UI strings into localization bundle files
 [2026-04-20 14:40:49] fix(http): handle client connection reset and retry backoff gracefully
+[2026-04-20 20:53:18] fix(http): handle client connection reset and retry backoff gracefully
