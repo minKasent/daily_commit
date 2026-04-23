@@ -1085,3 +1085,4 @@
 [2026-04-22 10:43:51] refactor(dto): standardize response envelope structure across controllers
 [2026-04-22 16:28:32] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-04-22 17:10:17] style: format code according to Google Java style guide
+[2026-04-23 11:14:28] feat(auth): implement JWT token rotation and blacklist filter
