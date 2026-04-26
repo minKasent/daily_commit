@@ -1090,3 +1090,4 @@
 [2026-04-23 20:17:53] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-04-24 14:39:43] test(integration): verify saga distributed transaction rollback scenario
 [2026-04-24 15:18:57] perf(compression): enable brotli compression for static asset delivery
+[2026-04-26 11:47:11] docs(architecture): add C4 diagram for microservices communication
