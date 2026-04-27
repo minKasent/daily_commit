@@ -1091,3 +1091,4 @@
 [2026-04-24 14:39:43] test(integration): verify saga distributed transaction rollback scenario
 [2026-04-24 15:18:57] perf(compression): enable brotli compression for static asset delivery
 [2026-04-26 11:47:11] docs(architecture): add C4 diagram for microservices communication
+[2026-04-27 09:55:54] feat(auth): implement JWT token rotation and blacklist filter
