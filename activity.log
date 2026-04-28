@@ -1095,3 +1095,4 @@
 [2026-04-27 13:21:20] docs(swagger): update RESTful API specification and schema models
 [2026-04-27 13:34:51] docs(architecture): add C4 diagram for microservices communication
 [2026-04-28 11:29:24] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2026-04-28 15:11:11] fix(timezone): normalize timestamp storage to UTC across database layers
