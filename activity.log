@@ -1094,3 +1094,4 @@
 [2026-04-27 09:55:54] feat(auth): implement JWT token rotation and blacklist filter
 [2026-04-27 13:21:20] docs(swagger): update RESTful API specification and schema models
 [2026-04-27 13:34:51] docs(architecture): add C4 diagram for microservices communication
+[2026-04-28 11:29:24] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
