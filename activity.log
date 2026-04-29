@@ -1097,3 +1097,4 @@
 [2026-04-28 11:29:24] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-04-28 15:11:11] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-04-28 19:25:41] test(unit): add comprehensive unit tests for user registration flow
+[2026-04-29 16:40:55] fix(api): correct pagination offset calculation for empty result sets
