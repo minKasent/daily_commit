@@ -1103,3 +1103,4 @@
 [2026-05-01 10:48:32] docs(architecture): add C4 diagram for microservices communication
 [2026-05-01 15:20:42] feat(i18n): extract UI strings into localization bundle files
 [2026-05-01 16:30:57] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-05-01 19:40:27] feat(monitoring): add prometheus metrics endpoint for throughput tracking
