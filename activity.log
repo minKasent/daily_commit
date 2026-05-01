@@ -1102,3 +1102,4 @@
 [2026-05-01 10:30:52] test(unit): add comprehensive unit tests for user registration flow
 [2026-05-01 10:48:32] docs(architecture): add C4 diagram for microservices communication
 [2026-05-01 15:20:42] feat(i18n): extract UI strings into localization bundle files
+[2026-05-01 16:30:57] fix(session): set SameSite=Strict and Secure flags on auth cookies
