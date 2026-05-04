@@ -1107,3 +1107,4 @@
 [2026-05-03 15:43:31] refactor(dto): standardize response envelope structure across controllers
 [2026-05-04 09:42:44] style: format code according to Google Java style guide
 [2026-05-04 14:13:29] refactor(config): externalize environment variables into secret manager
+[2026-05-04 17:13:37] feat(kafka): add dead letter queue handler for failed consumer events
