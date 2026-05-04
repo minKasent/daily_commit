@@ -1105,3 +1105,4 @@
 [2026-05-01 16:30:57] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-05-01 19:40:27] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-05-03 15:43:31] refactor(dto): standardize response envelope structure across controllers
+[2026-05-04 09:42:44] style: format code according to Google Java style guide
