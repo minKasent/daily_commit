@@ -1109,3 +1109,4 @@
 [2026-05-04 14:13:29] refactor(config): externalize environment variables into secret manager
 [2026-05-04 17:13:37] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-05-05 13:16:30] refactor(bloc): simplify state transitions in trading dashboard
+[2026-05-05 20:51:11] fix(parsing): handle edge-case null values in incoming webhook payload
