@@ -1116,3 +1116,4 @@
 [2026-05-06 15:16:34] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-05-06 17:19:24] perf(query): optimize postgres join query execution plan
 [2026-05-06 20:37:48] feat(monitoring): add prometheus metrics endpoint for throughput tracking
+[2026-05-06 21:43:46] perf(db): add composite index for transaction history lookup
