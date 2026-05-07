@@ -1117,3 +1117,4 @@
 [2026-05-06 17:19:24] perf(query): optimize postgres join query execution plan
 [2026-05-06 20:37:48] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-05-06 21:43:46] perf(db): add composite index for transaction history lookup
+[2026-05-07 14:53:23] docs(swagger): update RESTful API specification and schema models
