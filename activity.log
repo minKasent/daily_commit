@@ -1119,3 +1119,4 @@
 [2026-05-06 21:43:46] perf(db): add composite index for transaction history lookup
 [2026-05-07 14:53:23] docs(swagger): update RESTful API specification and schema models
 [2026-05-07 21:31:24] fix(validation): sanitize user input against cross-site scripting vectors
+[2026-05-08 13:20:43] fix(timezone): normalize timestamp storage to UTC across database layers
