@@ -1122,3 +1122,4 @@
 [2026-05-08 13:20:43] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-05-08 13:38:16] feat(worker): schedule background asynchronous email notification queue
 [2026-05-08 17:43:44] perf(db): add composite index for transaction history lookup
+[2026-05-08 20:32:35] perf(compression): enable brotli compression for static asset delivery
