@@ -1129,3 +1129,4 @@
 [2026-05-10 17:08:54] feat(i18n): extract UI strings into localization bundle files
 [2026-05-10 21:34:20] style: format code according to Google Java style guide
 [2026-05-11 10:25:38] fix(api): correct pagination offset calculation for empty result sets
+[2026-05-11 11:49:44] fix(validation): sanitize user input against cross-site scripting vectors
