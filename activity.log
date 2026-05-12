@@ -1132,3 +1132,4 @@
 [2026-05-11 11:49:44] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-05-11 13:51:42] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2026-05-12 11:46:55] refactor(dto): standardize response envelope structure across controllers
+[2026-05-12 14:34:15] fix(export): resolve CSV export buffer truncation on large datasets
