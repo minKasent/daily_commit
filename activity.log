@@ -1136,3 +1136,4 @@
 [2026-05-12 19:10:17] test(unit): add comprehensive unit tests for user registration flow
 [2026-05-13 16:07:20] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-05-13 17:44:20] refactor(service): decouple payment gateway adapter from order logic
+[2026-05-13 20:15:19] fix(parsing): handle edge-case null values in incoming webhook payload
