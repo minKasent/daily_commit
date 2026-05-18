@@ -1139,3 +1139,4 @@
 [2026-05-13 20:15:19] fix(parsing): handle edge-case null values in incoming webhook payload
 [2026-05-14 09:17:10] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-05-14 16:23:50] test(integration): verify saga distributed transaction rollback scenario
+[2026-05-18 11:22:49] perf(compression): enable brotli compression for static asset delivery
