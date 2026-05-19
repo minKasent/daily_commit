@@ -1143,3 +1143,4 @@
 [2026-05-18 16:20:23] refactor(clean-arch): extract repository interfaces from domain entities
 [2026-05-18 16:34:36] refactor(service): decouple payment gateway adapter from order logic
 [2026-05-18 17:43:10] fix(validation): sanitize user input against cross-site scripting vectors
+[2026-05-19 13:14:12] refactor(config): externalize environment variables into secret manager
