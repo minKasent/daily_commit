@@ -1145,3 +1145,4 @@
 [2026-05-18 17:43:10] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-05-19 13:14:12] refactor(config): externalize environment variables into secret manager
 [2026-05-20 09:08:16] fix(memory): patch goroutine leak in connection pool watcher
+[2026-05-20 11:49:54] refactor(bloc): simplify state transitions in trading dashboard
