@@ -1151,3 +1151,4 @@
 [2026-05-20 17:16:39] docs(swagger): update RESTful API specification and schema models
 [2026-05-21 09:11:46] feat(i18n): extract UI strings into localization bundle files
 [2026-05-21 11:22:31] test(unit): add comprehensive unit tests for user registration flow
+[2026-05-21 17:18:54] feat(graphql): add batched dataloader to resolve N+1 query problem
