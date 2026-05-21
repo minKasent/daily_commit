@@ -1150,3 +1150,4 @@
 [2026-05-20 15:07:15] docs(architecture): add C4 diagram for microservices communication
 [2026-05-20 17:16:39] docs(swagger): update RESTful API specification and schema models
 [2026-05-21 09:11:46] feat(i18n): extract UI strings into localization bundle files
+[2026-05-21 11:22:31] test(unit): add comprehensive unit tests for user registration flow
