@@ -1156,3 +1156,4 @@
 [2026-05-22 14:05:17] fix(api): correct pagination offset calculation for empty result sets
 [2026-05-22 14:44:24] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2026-05-22 17:51:50] feat(ui): implement responsive grid layout for mobile breakpoints
+[2026-05-22 21:13:49] refactor(clean-arch): extract repository interfaces from domain entities
