@@ -1158,3 +1158,4 @@
 [2026-05-22 17:51:50] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-05-22 21:13:49] refactor(clean-arch): extract repository interfaces from domain entities
 [2026-05-22 21:32:48] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-05-22 21:38:46] fix(parsing): handle edge-case null values in incoming webhook payload
