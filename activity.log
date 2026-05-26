@@ -1163,3 +1163,4 @@
 [2026-05-25 15:55:14] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-05-25 17:40:30] perf(render): memoize expensive widget tree calculations
 [2026-05-26 10:48:40] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2026-05-26 17:06:21] perf(db): add composite index for transaction history lookup
