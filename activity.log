@@ -1165,3 +1165,4 @@
 [2026-05-26 10:48:40] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2026-05-26 17:06:21] perf(db): add composite index for transaction history lookup
 [2026-05-27 16:39:31] refactor(bloc): simplify state transitions in trading dashboard
+[2026-05-27 16:52:13] perf(compression): enable brotli compression for static asset delivery
