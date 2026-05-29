@@ -1168,3 +1168,4 @@
 [2026-05-27 16:52:13] perf(compression): enable brotli compression for static asset delivery
 [2026-05-27 21:41:56] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-05-29 09:26:34] docs(architecture): add C4 diagram for microservices communication
+[2026-05-29 14:41:48] fix(validation): sanitize user input against cross-site scripting vectors
