@@ -1170,3 +1170,4 @@
 [2026-05-29 09:26:34] docs(architecture): add C4 diagram for microservices communication
 [2026-05-29 14:41:48] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-05-29 15:09:19] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2026-05-31 15:50:12] chore(docker): optimize multi-stage Dockerfile layer caching
