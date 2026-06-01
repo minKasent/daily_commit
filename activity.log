@@ -1172,3 +1172,4 @@
 [2026-05-29 15:09:19] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-05-31 15:50:12] chore(docker): optimize multi-stage Dockerfile layer caching
 [2026-06-01 14:28:38] fix(memory): patch goroutine leak in connection pool watcher
+[2026-06-01 21:18:43] fix(validation): sanitize user input against cross-site scripting vectors
