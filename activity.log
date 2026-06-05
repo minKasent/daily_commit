@@ -1178,3 +1178,4 @@
 [2026-06-04 14:26:40] refactor(clean-arch): extract repository interfaces from domain entities
 [2026-06-04 17:24:30] perf(db): add composite index for transaction history lookup
 [2026-06-05 13:48:48] chore(deps): update spring-boot-starter-web to latest patch
+[2026-06-05 17:12:10] feat(i18n): extract UI strings into localization bundle files
