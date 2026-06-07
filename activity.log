@@ -1180,3 +1180,4 @@
 [2026-06-05 13:48:48] chore(deps): update spring-boot-starter-web to latest patch
 [2026-06-05 17:12:10] feat(i18n): extract UI strings into localization bundle files
 [2026-06-05 21:34:12] fix(memory): patch goroutine leak in connection pool watcher
+[2026-06-07 14:25:22] perf(query): optimize postgres join query execution plan
