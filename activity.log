@@ -1181,3 +1181,4 @@
 [2026-06-05 17:12:10] feat(i18n): extract UI strings into localization bundle files
 [2026-06-05 21:34:12] fix(memory): patch goroutine leak in connection pool watcher
 [2026-06-07 14:25:22] perf(query): optimize postgres join query execution plan
+[2026-06-08 09:22:17] feat(auth): implement JWT token rotation and blacklist filter
