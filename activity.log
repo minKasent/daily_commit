@@ -1184,3 +1184,4 @@
 [2026-06-08 09:22:17] feat(auth): implement JWT token rotation and blacklist filter
 [2026-06-08 16:47:17] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-06-09 11:27:45] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-06-09 14:09:29] perf(render): memoize expensive widget tree calculations
