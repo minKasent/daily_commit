@@ -1187,3 +1187,4 @@
 [2026-06-09 14:09:29] perf(render): memoize expensive widget tree calculations
 [2026-06-09 14:50:28] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-06-10 09:10:37] refactor(dto): standardize response envelope structure across controllers
+[2026-06-10 10:48:13] fix(session): set SameSite=Strict and Secure flags on auth cookies
