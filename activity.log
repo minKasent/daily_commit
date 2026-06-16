@@ -1195,3 +1195,4 @@
 [2026-06-12 20:44:26] refactor(bloc): simplify state transitions in trading dashboard
 [2026-06-12 22:16:54] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2026-06-15 14:23:32] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2026-06-16 13:55:29] fix(http): handle client connection reset and retry backoff gracefully
