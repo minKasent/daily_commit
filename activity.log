@@ -1202,3 +1202,4 @@
 [2026-06-17 22:09:31] fix(http): handle client connection reset and retry backoff gracefully
 [2026-06-17 22:41:31] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-06-18 11:34:30] feat(worker): schedule background asynchronous email notification queue
+[2026-06-18 11:41:41] docs(swagger): update RESTful API specification and schema models
