@@ -1201,3 +1201,4 @@
 [2026-06-17 11:42:37] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-06-17 22:09:31] fix(http): handle client connection reset and retry backoff gracefully
 [2026-06-17 22:41:31] fix(validation): sanitize user input against cross-site scripting vectors
+[2026-06-18 11:34:30] feat(worker): schedule background asynchronous email notification queue
