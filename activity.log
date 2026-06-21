@@ -1205,3 +1205,4 @@
 [2026-06-18 11:41:41] docs(swagger): update RESTful API specification and schema models
 [2026-06-18 16:16:29] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-06-19 22:25:41] refactor(service): decouple payment gateway adapter from order logic
+[2026-06-21 16:39:28] docs(architecture): add C4 diagram for microservices communication
