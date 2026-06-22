@@ -1207,3 +1207,4 @@
 [2026-06-19 22:25:41] refactor(service): decouple payment gateway adapter from order logic
 [2026-06-21 16:39:28] docs(architecture): add C4 diagram for microservices communication
 [2026-06-21 19:53:19] fix(session): set SameSite=Strict and Secure flags on auth cookies
+[2026-06-22 11:25:29] feat(auth): implement JWT token rotation and blacklist filter
