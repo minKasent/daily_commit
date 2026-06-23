@@ -1211,3 +1211,4 @@
 [2026-06-22 15:32:55] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-06-22 21:10:47] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-06-23 10:08:33] perf(compression): enable brotli compression for static asset delivery
+[2026-06-23 19:05:55] feat(security): enforce HTTPS strict transport security headers
