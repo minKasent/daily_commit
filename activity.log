@@ -1213,3 +1213,4 @@
 [2026-06-23 10:08:33] perf(compression): enable brotli compression for static asset delivery
 [2026-06-23 19:05:55] feat(security): enforce HTTPS strict transport security headers
 [2026-06-24 09:20:37] test(mock): stub third-party SMS verification provider in test suite
+[2026-06-25 14:47:21] feat(graphql): add batched dataloader to resolve N+1 query problem
