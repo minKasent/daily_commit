@@ -1222,3 +1222,4 @@
 [2026-06-28 16:29:32] feat(monitoring): add prometheus metrics endpoint for throughput tracking
 [2026-06-28 16:37:37] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-06-29 10:51:25] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2026-06-29 13:07:46] fix(export): resolve CSV export buffer truncation on large datasets
