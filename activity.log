@@ -1225,3 +1225,4 @@
 [2026-06-29 13:07:46] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-06-29 15:31:44] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-06-30 11:10:25] feat(graphql): add batched dataloader to resolve N+1 query problem
+[2026-06-30 15:34:43] docs(swagger): update RESTful API specification and schema models
