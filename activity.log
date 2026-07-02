@@ -1232,3 +1232,4 @@
 [2026-07-01 21:31:32] fix(memory): patch goroutine leak in connection pool watcher
 [2026-07-01 22:34:42] refactor(config): externalize environment variables into secret manager
 [2026-07-02 10:52:49] fix(api): correct pagination offset calculation for empty result sets
+[2026-07-02 17:15:46] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
