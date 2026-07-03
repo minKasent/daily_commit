@@ -1234,3 +1234,4 @@
 [2026-07-02 10:52:49] fix(api): correct pagination offset calculation for empty result sets
 [2026-07-02 17:15:46] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2026-07-03 09:55:27] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
+[2026-07-03 11:22:27] fix(validation): sanitize user input against cross-site scripting vectors
