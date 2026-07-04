@@ -1236,3 +1236,4 @@
 [2026-07-03 09:55:27] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
 [2026-07-03 11:22:27] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-07-03 19:52:17] test(mock): stub third-party SMS verification provider in test suite
+[2026-07-04 15:16:26] fix(http): handle client connection reset and retry backoff gracefully
