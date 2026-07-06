@@ -1238,3 +1238,4 @@
 [2026-07-03 19:52:17] test(mock): stub third-party SMS verification provider in test suite
 [2026-07-04 15:16:26] fix(http): handle client connection reset and retry backoff gracefully
 [2026-07-06 14:18:46] feat(security): enforce HTTPS strict transport security headers
+[2026-07-06 14:36:58] refactor(service): decouple payment gateway adapter from order logic
