@@ -1258,3 +1258,4 @@
 [2026-07-14 10:34:52] docs(swagger): update RESTful API specification and schema models
 [2026-07-14 20:12:54] test(e2e): automate end-to-end checkout pipeline with mock payment
 [2026-07-15 09:44:35] fix(validation): sanitize user input against cross-site scripting vectors
+[2026-07-15 10:49:52] fix(routing): preserve deep-link path parameters on session resume
