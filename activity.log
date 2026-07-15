@@ -1261,3 +1261,4 @@
 [2026-07-15 10:49:52] fix(routing): preserve deep-link path parameters on session resume
 [2026-07-15 15:08:26] chore(deps): update spring-boot-starter-web to latest patch
 [2026-07-15 21:16:38] style: format code according to Google Java style guide
+[2026-07-15 21:21:20] fix(timezone): normalize timestamp storage to UTC across database layers
