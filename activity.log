@@ -1265,3 +1265,4 @@
 [2026-07-15 21:54:13] perf(asset): compress and convert static PNG icons to webp format
 [2026-07-16 16:50:26] chore(deps): update spring-boot-starter-web to latest patch
 [2026-07-19 19:36:19] feat(auth): implement JWT token rotation and blacklist filter
+[2026-07-20 11:27:31] fix(memory): patch goroutine leak in connection pool watcher
