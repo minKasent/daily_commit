@@ -1270,3 +1270,4 @@
 [2026-07-20 13:39:24] refactor(service): decouple payment gateway adapter from order logic
 [2026-07-20 15:14:54] test(unit): add comprehensive unit tests for user registration flow
 [2026-07-20 16:35:37] fix(export): resolve CSV export buffer truncation on large datasets
+[2026-07-20 16:41:10] fix(timezone): normalize timestamp storage to UTC across database layers
