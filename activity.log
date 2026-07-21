@@ -1275,3 +1275,4 @@
 [2026-07-21 13:45:54] fix(cache): resolve race condition in distributed Redis lock
 [2026-07-21 14:40:12] perf(db): add composite index for transaction history lookup
 [2026-07-21 16:53:28] perf(query): optimize postgres join query execution plan
+[2026-07-21 20:24:54] fix(api): correct pagination offset calculation for empty result sets
