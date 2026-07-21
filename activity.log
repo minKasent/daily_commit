@@ -1272,3 +1272,4 @@
 [2026-07-20 16:35:37] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-07-20 16:41:10] fix(timezone): normalize timestamp storage to UTC across database layers
 [2026-07-21 13:45:38] perf(query): optimize postgres join query execution plan
+[2026-07-21 13:45:54] fix(cache): resolve race condition in distributed Redis lock
