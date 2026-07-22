@@ -1279,3 +1279,4 @@
 [2026-07-22 15:55:56] perf(db): add composite index for transaction history lookup
 [2026-07-22 16:29:14] feat(worker): schedule background asynchronous email notification queue
 [2026-07-22 21:36:44] feat(ui): implement responsive grid layout for mobile breakpoints
+[2026-07-22 22:06:12] refactor(clean-arch): extract repository interfaces from domain entities
