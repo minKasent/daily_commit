@@ -1293,3 +1293,4 @@
 [2026-07-26 10:40:20] refactor(dto): standardize response envelope structure across controllers
 [2026-07-27 14:06:41] test(unit): add comprehensive unit tests for user registration flow
 [2026-07-27 14:11:50] feat(auth): implement JWT token rotation and blacklist filter
+[2026-07-29 11:22:43] feat(security): enforce HTTPS strict transport security headers
