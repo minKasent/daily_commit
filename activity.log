@@ -1300,3 +1300,4 @@
 [2026-07-29 17:16:55] fix(http): handle client connection reset and retry backoff gracefully
 [2026-07-29 17:23:36] perf(query): optimize postgres join query execution plan
 [2026-07-30 13:44:33] fix(timezone): normalize timestamp storage to UTC across database layers
+[2026-07-31 09:48:40] refactor(service): decouple payment gateway adapter from order logic
