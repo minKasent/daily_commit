@@ -1308,3 +1308,4 @@
 [2026-08-03 22:37:17] refactor(dto): standardize response envelope structure across controllers
 [2026-08-04 13:20:57] fix(parsing): handle edge-case null values in incoming webhook payload
 [2026-08-04 14:52:53] perf(query): optimize postgres join query execution plan
+[2026-08-04 20:54:17] docs(architecture): add C4 diagram for microservices communication
