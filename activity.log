@@ -1306,3 +1306,4 @@
 [2026-08-03 17:16:20] docs(swagger): update RESTful API specification and schema models
 [2026-08-03 22:07:16] fix(http): handle client connection reset and retry backoff gracefully
 [2026-08-03 22:37:17] refactor(dto): standardize response envelope structure across controllers
+[2026-08-04 13:20:57] fix(parsing): handle edge-case null values in incoming webhook payload
