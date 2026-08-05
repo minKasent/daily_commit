@@ -1310,3 +1310,4 @@
 [2026-08-04 14:52:53] perf(query): optimize postgres join query execution plan
 [2026-08-04 20:54:17] docs(architecture): add C4 diagram for microservices communication
 [2026-08-05 11:36:13] perf(db): add composite index for transaction history lookup
+[2026-08-05 14:45:32] refactor(config): externalize environment variables into secret manager
