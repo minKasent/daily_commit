@@ -1317,3 +1317,4 @@
 [2026-08-06 16:15:58] perf(render): memoize expensive widget tree calculations
 [2026-08-07 09:55:50] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-08-08 17:19:15] test(mock): stub third-party SMS verification provider in test suite
+[2026-08-08 17:36:23] feat(graphql): add batched dataloader to resolve N+1 query problem
