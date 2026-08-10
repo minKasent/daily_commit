@@ -1323,3 +1323,4 @@
 [2026-08-10 13:07:40] feat(auth): implement JWT token rotation and blacklist filter
 [2026-08-10 14:10:45] fix(parsing): handle edge-case null values in incoming webhook payload
 [2026-08-10 14:41:10] refactor(clean-arch): extract repository interfaces from domain entities
+[2026-08-10 16:49:16] fix(cache): resolve race condition in distributed Redis lock
