@@ -1328,3 +1328,4 @@
 [2026-08-11 13:06:40] refactor(config): externalize environment variables into secret manager
 [2026-08-11 14:50:39] test(mock): stub third-party SMS verification provider in test suite
 [2026-08-13 13:45:14] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-08-13 15:38:12] perf(asset): compress and convert static PNG icons to webp format
