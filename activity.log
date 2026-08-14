@@ -1332,3 +1332,4 @@
 [2026-08-13 22:16:33] chore(docker): optimize multi-stage Dockerfile layer caching
 [2026-08-14 13:12:34] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-08-14 13:37:53] test(e2e): automate end-to-end checkout pipeline with mock payment
+[2026-08-14 17:55:23] fix(session): set SameSite=Strict and Secure flags on auth cookies
