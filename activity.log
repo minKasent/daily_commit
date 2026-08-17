@@ -1336,3 +1336,4 @@
 [2026-08-14 19:44:31] perf(db): add composite index for transaction history lookup
 [2026-08-17 10:20:44] test(mock): stub third-party SMS verification provider in test suite
 [2026-08-17 10:52:58] refactor(clean-arch): extract repository interfaces from domain entities
+[2026-08-17 11:54:23] feat(monitoring): add prometheus metrics endpoint for throughput tracking
