@@ -1342,3 +1342,4 @@
 [2026-08-19 10:16:28] chore(docker): optimize multi-stage Dockerfile layer caching
 [2026-08-19 17:48:44] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-08-19 19:11:20] style: format code according to Google Java style guide
+[2026-08-19 19:17:39] fix(routing): preserve deep-link path parameters on session resume
