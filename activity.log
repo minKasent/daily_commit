@@ -1352,3 +1352,4 @@
 [2026-08-21 10:19:40] style: format code according to Google Java style guide
 [2026-08-21 14:55:29] feat(security): enforce HTTPS strict transport security headers
 [2026-08-21 15:54:13] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-08-24 10:41:18] fix(timezone): normalize timestamp storage to UTC across database layers
