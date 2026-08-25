@@ -1359,3 +1359,4 @@
 [2026-08-24 20:15:25] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-08-24 20:28:38] fix(api): correct pagination offset calculation for empty result sets
 [2026-08-25 11:39:42] perf(render): memoize expensive widget tree calculations
+[2026-08-25 14:34:30] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
