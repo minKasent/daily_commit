@@ -1365,3 +1365,4 @@
 [2026-08-26 22:26:54] fix(memory): patch goroutine leak in connection pool watcher
 [2026-08-28 10:10:30] test(unit): add comprehensive unit tests for user registration flow
 [2026-08-28 11:17:47] fix(timezone): normalize timestamp storage to UTC across database layers
+[2026-08-28 15:17:11] refactor(dto): standardize response envelope structure across controllers
