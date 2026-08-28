@@ -1364,3 +1364,4 @@
 [2026-08-26 11:47:19] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-08-26 22:26:54] fix(memory): patch goroutine leak in connection pool watcher
 [2026-08-28 10:10:30] test(unit): add comprehensive unit tests for user registration flow
+[2026-08-28 11:17:47] fix(timezone): normalize timestamp storage to UTC across database layers
