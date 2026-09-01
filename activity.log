@@ -1369,3 +1369,4 @@
 [2026-08-29 22:17:41] refactor(bloc): simplify state transitions in trading dashboard
 [2026-08-30 13:47:33] feat(worker): schedule background asynchronous email notification queue
 [2026-08-31 21:29:33] feat(auth): implement JWT token rotation and blacklist filter
+[2026-09-01 10:52:36] refactor(dto): standardize response envelope structure across controllers
