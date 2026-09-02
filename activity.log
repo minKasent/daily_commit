@@ -1371,3 +1371,4 @@
 [2026-08-31 21:29:33] feat(auth): implement JWT token rotation and blacklist filter
 [2026-09-01 10:52:36] refactor(dto): standardize response envelope structure across controllers
 [2026-09-01 16:40:15] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-09-02 16:51:36] fix(cache): resolve race condition in distributed Redis lock
