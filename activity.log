@@ -1372,3 +1372,4 @@
 [2026-09-01 10:52:36] refactor(dto): standardize response envelope structure across controllers
 [2026-09-01 16:40:15] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2026-09-02 16:51:36] fix(cache): resolve race condition in distributed Redis lock
+[2026-09-03 14:18:29] perf(query): optimize postgres join query execution plan
