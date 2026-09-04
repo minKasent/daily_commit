@@ -1377,3 +1377,4 @@
 [2026-09-03 17:26:14] docs(architecture): add C4 diagram for microservices communication
 [2026-09-03 17:53:18] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
 [2026-09-03 22:10:10] perf(compression): enable brotli compression for static asset delivery
+[2026-09-04 16:19:11] feat(graphql): add batched dataloader to resolve N+1 query problem
