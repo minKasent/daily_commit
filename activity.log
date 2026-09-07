@@ -1380,3 +1380,4 @@
 [2026-09-04 16:19:11] feat(graphql): add batched dataloader to resolve N+1 query problem
 [2026-09-04 20:21:29] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-09-04 21:42:29] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-09-07 09:53:27] fix(export): resolve CSV export buffer truncation on large datasets
