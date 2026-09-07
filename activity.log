@@ -1383,3 +1383,4 @@
 [2026-09-07 09:53:27] fix(export): resolve CSV export buffer truncation on large datasets
 [2026-09-07 13:43:57] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-09-07 16:41:37] refactor(config): externalize environment variables into secret manager
+[2026-09-07 22:49:17] fix(api): correct pagination offset calculation for empty result sets
