@@ -1387,3 +1387,4 @@
 [2026-09-08 09:14:30] perf(query): optimize postgres join query execution plan
 [2026-09-08 10:31:50] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-09-08 11:09:42] chore(deps): update spring-boot-starter-web to latest patch
+[2026-09-08 14:27:20] feat(rate-limit): enforce token bucket rate limiter on sensitive endpoints
