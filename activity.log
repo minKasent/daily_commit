@@ -1391,3 +1391,4 @@
 [2026-09-08 21:08:28] feat(kafka): add dead letter queue handler for failed consumer events
 [2026-09-09 14:05:18] feat(i18n): extract UI strings into localization bundle files
 [2026-09-09 15:11:44] feat(search): implement fuzzy search with Elasticsearch ngram tokenizer
+[2026-09-09 21:22:53] fix(export): resolve CSV export buffer truncation on large datasets
