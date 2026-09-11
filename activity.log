@@ -1398,3 +1398,4 @@
 [2026-09-10 17:39:55] fix(api): correct pagination offset calculation for empty result sets
 [2026-09-11 13:19:18] style: format code according to Google Java style guide
 [2026-09-11 15:13:38] feat(monitoring): add prometheus metrics endpoint for throughput tracking
+[2026-09-11 21:16:55] fix(memory): patch goroutine leak in connection pool watcher
