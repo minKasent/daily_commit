@@ -1401,3 +1401,4 @@
 [2026-09-11 21:16:55] fix(memory): patch goroutine leak in connection pool watcher
 [2026-09-15 09:21:12] docs(swagger): update RESTful API specification and schema models
 [2026-09-15 11:37:47] fix(memory): patch goroutine leak in connection pool watcher
+[2026-09-15 19:06:40] feat(auth): implement JWT token rotation and blacklist filter
