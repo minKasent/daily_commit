@@ -1405,3 +1405,4 @@
 [2026-09-15 19:17:16] chore(deps): update spring-boot-starter-web to latest patch
 [2026-09-16 10:06:15] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-09-16 11:22:47] fix(http): handle client connection reset and retry backoff gracefully
+[2026-09-16 14:37:56] chore(ci): configure GitHub Actions cache for Gradle dependencies
