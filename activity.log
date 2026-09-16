@@ -1406,3 +1406,4 @@
 [2026-09-16 10:06:15] fix(session): set SameSite=Strict and Secure flags on auth cookies
 [2026-09-16 11:22:47] fix(http): handle client connection reset and retry backoff gracefully
 [2026-09-16 14:37:56] chore(ci): configure GitHub Actions cache for Gradle dependencies
+[2026-09-16 20:42:22] refactor(config): externalize environment variables into secret manager
