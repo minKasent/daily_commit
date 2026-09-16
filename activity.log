@@ -1403,3 +1403,4 @@
 [2026-09-15 11:37:47] fix(memory): patch goroutine leak in connection pool watcher
 [2026-09-15 19:06:40] feat(auth): implement JWT token rotation and blacklist filter
 [2026-09-15 19:17:16] chore(deps): update spring-boot-starter-web to latest patch
+[2026-09-16 10:06:15] fix(session): set SameSite=Strict and Secure flags on auth cookies
