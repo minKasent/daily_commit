@@ -1410,3 +1410,4 @@
 [2026-09-18 11:11:23] test(mock): stub third-party SMS verification provider in test suite
 [2026-09-18 20:50:22] fix(validation): sanitize user input against cross-site scripting vectors
 [2026-09-18 20:53:44] refactor(dto): standardize response envelope structure across controllers
+[2026-09-18 22:28:54] chore(deps): update spring-boot-starter-web to latest patch
