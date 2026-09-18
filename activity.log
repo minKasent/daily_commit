@@ -1408,3 +1408,4 @@
 [2026-09-16 14:37:56] chore(ci): configure GitHub Actions cache for Gradle dependencies
 [2026-09-16 20:42:22] refactor(config): externalize environment variables into secret manager
 [2026-09-18 11:11:23] test(mock): stub third-party SMS verification provider in test suite
+[2026-09-18 20:50:22] fix(validation): sanitize user input against cross-site scripting vectors
