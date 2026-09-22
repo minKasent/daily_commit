@@ -1413,3 +1413,4 @@
 [2026-09-18 22:28:54] chore(deps): update spring-boot-starter-web to latest patch
 [2026-09-21 09:31:17] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-09-21 21:12:39] feat(i18n): extract UI strings into localization bundle files
+[2026-09-22 21:40:56] perf(db): add composite index for transaction history lookup
