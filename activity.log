@@ -1414,3 +1414,4 @@
 [2026-09-21 09:31:17] feat(ui): implement responsive grid layout for mobile breakpoints
 [2026-09-21 21:12:39] feat(i18n): extract UI strings into localization bundle files
 [2026-09-22 21:40:56] perf(db): add composite index for transaction history lookup
+[2026-09-24 16:17:14] feat(graphql): add batched dataloader to resolve N+1 query problem
